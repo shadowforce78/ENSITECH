@@ -1,6 +1,6 @@
 # Chapitre 1
 
-## Application 1
+## Sylogisme 1
 
 ### Fait :
 	La société Parrot est en pour-parler depuis trois mois avec la société Altai pour la réalistation d'un capteur solaire. Cependant le prototype proposé ne répond pas au cahier des charges. La société Parrot souhaite mettre fin au négociation.
