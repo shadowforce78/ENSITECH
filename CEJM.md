@@ -49,4 +49,4 @@ Services apporté par : Crédit Coopératif :
 2) Montrer qu'il existe des asymétries d'information qui impactent la fixation du prix du chocolat
 	1) Il y a asymétries d'information dans la filière du chocolat car d'un coté les grands groupe industrielle sont très bien informés, maitrise toute la chaine de production et peuvent imposer leur prix a des petits producteur isolé n'ayant pas accès aux données du marché. Ainsi il y a un déséquilibre sur ce marché.
 3) Montrer que le prix n'est pas le seul facteur de décision dans l'achat du consommateur 
-	1) 
+	1) Le prix est un facteur important dans la prise de décision d'achat, mais les consommateurs privilégies les valeurs éthiques et environnementales. Ils sont sensibles a la traçabilité et a la qualité et sont prêt a payer plus cher pour soutenir une économie basé sur le développement durable
