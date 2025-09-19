@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "06686ee387e4dfcd",
+    "type": "split",
+    "children": [
+      {
+        "id": "68b2049e4d72d11a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96a655234894fa23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CEJM.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CEJM"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1ff385d705882a2a",
+    "type": "split",
+    "children": [
+      {
+        "id": "18b7a0638023a8da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f0f5f3693b5e9c2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3f5fc1a683148afa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b3e0419da7cc6b45",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6d10110b2393c0d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "44bbe78e4c871055",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10d11c94b78154de",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CEJM.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for CEJM"
+            }
+          },
+          {
+            "id": "e0e036bc5549166b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CEJM.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from CEJM"
+            }
+          },
+          {
+            "id": "2348358de7a6f43a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "da21168bdeda2295",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CEJM.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of CEJM"
+            }
+          },
+          {
+            "id": "8c3f6019af43a976",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "96a655234894fa23",
+  "lastOpenFiles": [
+    "img/Pasted Image 20250905102839_226.png",
+    "Excalidraw/Drawing 2025-09-05 10.28.15.excalidraw.md",
+    "CEJM.md",
+    "README.md",
+    "img",
+    "CEJM/CEJM 1ère ANNEE 2025-2026/~WRL0001.tmp",
+    "CEJM/CEJM 1ère ANNEE 2025-2026/~WRD0000.tmp",
+    "CEJM/CEJM 1ère ANNEE 2025-2026/~$CHES A TROUS CULT ECO JUR MANA 1ère Année ENSUP 1.docx",
+    "CEJM/CEJM 1ère ANNEE 2025-2026/~$XTES ET CAS PRATIQUES LIVRE NATHAN 2025.docx",
+    "Pasted Image 20250905102839_226.png",
+    "Anglais.md",
+    "Anglais/~WRL2355.tmp",
+    "Anglais/~WRD2347.tmp",
+    "Anglais/~$sitech Office IT vocabulary .docx",
+    "Anglais/Ensitech Office IT vocabulary .docx",
+    "Anglais/Ensitech Office IT vocabulary .docx.fdmdownload",
+    "Excalidraw/Drawing 2025-09-05 10.01.01.excalidraw.md",
+    "Welcome.md"
+  ]
+}

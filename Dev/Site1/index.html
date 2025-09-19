@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="fr">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="color-scheme" content="light dark">
+        <title>Petites Annonces</title>
+        <link rel="stylesheet" href="./styles.css">
+    </head>
+    <body>
+        <header class="app-header">
+            <div class="container header-inner">
+                <h1 class="brand">Petites Annonces</h1>
+                <div class="header-actions">
+                    <input id="searchInput" class="search" type="search"
+                        placeholder="Rechercher (titre, description, vendeur, catégorie)…"
+                        aria-label="Recherche">
+                    <button id="btnAdd" class="btn primary requires-auth"
+                        hidden>Ajouter</button>
+                    <button id="btnLogin" class="btn">Se connecter</button>
+                    <button id="btnLogout" class="btn danger" hidden>Se
+                        déconnecter</button>
+                </div>
+            </div>
+        </header>
+
+        <main class="container">
+            <section id="emptyState" class="empty" hidden>
+                <p>Aucune annonce pour le moment.</p>
+            </section>
+
+            <section id="adsList" class="grid"></section>
+        </main>
+
+        <!-- Template carte annonce -->
+        <template id="tpl-ad">
+            <article class="card" data-id>
+                <div class="thumb-wrap">
+                    <img class="thumb" src alt="Image de l'annonce"
+                        loading="lazy" />
+                </div>
+                <div class="card-body">
+                    <div class="card-top">
+                        <h2 class="title"></h2>
+                        <div class="price"></div>
+                    </div>
+                    <p class="desc"></p>
+                    <div class="meta">
+                        <span class="chip category"></span>
+                        <span class="chip seller"></span>
+                    </div>
+                    <div class="location"></div>
+                    <div class="date"></div>
+                </div>
+                <div class="card-actions">
+                    <button class="btn danger btn-delete requires-auth"
+                        title="Supprimer" hidden>Supprimer</button>
+                </div>
+            </article>
+        </template>
+
+        <!-- Modal Ajout -->
+        <div id="modalAdd" class="modal" aria-hidden="true" role="dialog"
+            aria-labelledby="modalAddTitle">
+            <div class="modal-backdrop" data-close="modal"></div>
+            <div class="modal-dialog">
+                <header class="modal-header">
+                    <h2 id="modalAddTitle">Ajouter une annonce</h2>
+                    <button class="icon-btn" data-close="modal"
+                        aria-label="Fermer">✕</button>
+                </header>
+                <form id="formAdd" class="modal-body" novalidate>
+                    <div class="field">
+                        <label for="addTitle">Titre<span
+                                class="req">*</span></label>
+                        <input id="addTitle" name="title" type="text" required
+                            maxlength="100" />
+                    </div>
+                    <div class="field">
+                        <label for="addDesc">Description<span
+                                class="req">*</span></label>
+                        <textarea id="addDesc" name="description" rows="3"
+                            required maxlength="600"></textarea>
+                    </div>
+                    <div class="field">
+                        <label for="addCategory">Catégorie<span
+                                class="req">*</span></label>
+                        <select id="addCategory" name="category" required>
+                            <option value>Choisir…</option>
+                            <option>Informatique</option>
+                            <option>Maison</option>
+                            <option>Vêtements</option>
+                            <option>Véhicules</option>
+                            <option>Loisirs</option>
+                            <option>Immobilier</option>
+                            <option>Services</option>
+                            <option>Autres</option>
+                        </select>
+                    </div>
+                    <div class="field">
+                        <label for="addImage">Image (URL)<span
+                                class="req">*</span></label>
+                        <input id="addImage" name="imageUrl" type="url" required
+                            placeholder="https://…" />
+                    </div>
+                    <div class="field inline">
+                        <div>
+                            <label for="addPrice">Prix (€)<span
+                                    class="req">*</span></label>
+                            <input id="addPrice" name="price" type="number"
+                                min="0" step="0.01" required />
+                        </div>
+                        <div>
+                            <label for="addSeller">Vendeur</label>
+                            <input id="addSeller" name="seller" type="text"
+                                placeholder="Votre nom" />
+                        </div>
+                    </div>
+                    <fieldset class="field">
+                        <legend>Lieu</legend>
+                        <div class="field">
+                            <label for="addLocLabel">Libellé (ville /
+                                adresse)</label>
+                            <input id="addLocLabel" name="locationLabel"
+                                type="text" placeholder="Paris, Lyon…" />
+                        </div>
+                    </fieldset>
+                    <div class="modal-footer">
+                        <button type="button" class="btn"
+                            data-close="modal">Annuler</button>
+                        <button type="submit"
+                            class="btn primary">Enregistrer</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+
+        <!-- Modal Login -->
+        <div id="modalLogin" class="modal" aria-hidden="true" role="dialog"
+            aria-labelledby="modalLoginTitle">
+            <div class="modal-backdrop" data-close="modal"></div>
+            <div class="modal-dialog">
+                <header class="modal-header">
+                    <h2 id="modalLoginTitle">Connexion</h2>
+                    <button class="icon-btn" data-close="modal"
+                        aria-label="Fermer">✕</button>
+                </header>
+                <form id="formLogin" class="modal-body" novalidate>
+                    <div class="field">
+                        <label for="loginName">Nom d'utilisateur<span
+                                class="req">*</span></label>
+                        <input id="loginName" name="username" type="text"
+                            required maxlength="40" />
+                    </div>
+                    <p class="muted">Astuce: aucun mot de passe requis (démo
+                        locale).</p>
+                    <div class="modal-footer">
+                        <button type="button" class="btn"
+                            data-close="modal">Annuler</button>
+                        <button type="submit" class="btn primary">Se
+                            connecter</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+
+        <script src="./app.js" defer></script>
+    </body>
+</html>
