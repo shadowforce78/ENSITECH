@@ -2,8 +2,3 @@ I am a BTS SIO student and also working as an apprentice at ENSP (National Schoo
 
 In this job, I have many tasks. The first one is maintaining the network—for example, connecting students’ computers to the student network and professors’ computers to another network. I also help students fix printers and other basic IT issues.
 
-
-buisness travail
-	- Can travel all over the world (cool)
-	- Hard rythme not always at home (family issue)
-	- Discover cultures, language peoples
