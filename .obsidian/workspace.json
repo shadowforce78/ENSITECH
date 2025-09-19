@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CEJM-Droit.md",
+                "file": "Anglais.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CEJM-Droit"
+              "title": "Anglais"
             }
           }
         ],
@@ -198,8 +198,10 @@
   },
   "active": "4bab9bce0a1b6853",
   "lastOpenFiles": [
-    "CEJM-Eco.md",
+    "CEJM/CEJM 1ère ANNEE 2025-2026/~WRL1429.tmp",
+    "CEJM/CEJM 1ère ANNEE 2025-2026/~WRD1410.tmp",
     "CEJM-Droit.md",
+    "CEJM-Eco.md",
     "CEJM/CEJM 1ère ANNEE 2025-2026/~WRL2070.tmp",
     "CEJM/CEJM 1ère ANNEE 2025-2026/~WRD2062.tmp",
     "CEJM/CEJM 1ère ANNEE 2025-2026/~WRL2295.tmp",
@@ -209,7 +211,6 @@
     "CEJM/CEJM 1ère ANNEE 2025-2026/~$THODO DROIT.doc",
     "CEJM/CEJM 1ère ANNEE 2025-2026/~WRL0005.tmp",
     "CEJM/CEJM 1ère ANNEE 2025-2026/~WRD0004.tmp",
-    "git.bat",
     "img/Pasted Image 20250905102839_226.png",
     "Excalidraw/Drawing 2025-09-05 10.28.15.excalidraw.md",
     "README.md",
