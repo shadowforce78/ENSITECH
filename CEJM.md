@@ -47,6 +47,6 @@ Services apporté par : Crédit Coopératif :
 1) Analysez le marché du chocolat 
 	1) Le marché du chocolat est en difficulté croissante quand a sa distribution, les problèmes liés au climat (maladies, intempéries forte, chaleur...) de ce fait, le coût du cacao a grandement augmenté (+136% entre Juillet 2022 et Février 2024). Etant donné que la demande de chocolat ne diminue pas et reste immense tout au long de l'année, les prix ne font qu'augmenter dans un contexte global d'inflation.
 2) Montrer qu'il existe des asymétries d'information qui impactent la fixation du prix du chocolat
-	1) La standardisation et massification de la production on permis de fixer un marché économique, cependant certains petits artisan qui ne sont pas en capacité de pouvoir s'informer sur ce marcher ce retrouve dépassé 
+	1) Il y a asymétries d'information dans la filière du chocolat car d'un coté les grands groupe industrielle sont très bien informés, maitrise toute la chaine de production et peuvent imposer leur prix a des petits producteur isolé n'ayant pas accès aux données du marché. Ainsi il y a un déséquilibre sur ce marché.
 3) Montrer que le prix n'est pas le seul facteur de décision dans l'achat du consommateur 
 	1) 
