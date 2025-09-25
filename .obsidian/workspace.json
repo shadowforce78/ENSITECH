@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "68b2049e4d72d11a",
+        "id": "3563dcf317354e6b",
         "type": "tabs",
         "children": [
           {
-            "id": "4bab9bce0a1b6853",
+            "id": "d46179d78899cc15",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
@@ -181,7 +181,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4bab9bce0a1b6853",
+  "active": "d46179d78899cc15",
   "lastOpenFiles": [
     "Anglais.md",
     "CEJM-Eco.md",
