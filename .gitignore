@@ -1,2 +1,5 @@
 *.docx
 *.doc
+/VM/ISO/debian-13.1.0-amd64-netinst.iso
+/VM/ISO/SERVER_EVAL_x64FRE_fr-fr.iso
+/VM/ISO/Windows.iso

@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3563dcf317354e6b",
+        "id": "7df37beac48fdad4",
         "type": "tabs",
         "children": [
           {
-            "id": "d46179d78899cc15",
+            "id": "a49256bb3ba39245",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "CEJM-Droit.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "CEJM-Droit"
             }
           }
         ]
@@ -181,10 +181,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d46179d78899cc15",
+  "active": "a49256bb3ba39245",
   "lastOpenFiles": [
-    "Anglais.md",
+    "CEJM/CEJM 1ère ANNEE 2025-2026/~$XTES ET CAS PRATIQUES LIVRE NATHAN 2025.docx",
+    "CEJM/CEJM 1ère ANNEE 2025-2026/~$THODO DROIT.doc",
     "CEJM-Eco.md",
+    "Anglais.md",
     "SISR Compte Rendu 1.md",
     "VM/System Volume Information",
     "VM/tp_decouverte_windows_10_bts_sio_sisr.pdf",
@@ -195,7 +197,6 @@
     "Anglais/~WRL1578.tmp",
     "Anglais/~WRD1574.tmp",
     "Anglais/~WRL3297.tmp",
-    "Anglais/~WRD3293.tmp",
     "CEJM-Droit.md",
     "img/Pasted Image 20250905102839_226.png",
     "Excalidraw/Drawing 2025-09-05 10.28.15.excalidraw.md",

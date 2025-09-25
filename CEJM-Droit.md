@@ -16,3 +16,21 @@
 
 ### Solution
 	En l'espèce la société Parrot satisfait les exigeance de bonnes foi, Parrot a également donné toutes les informations importantes dans son cahier des charges. Malgrés des négociations de trois mois la société Altai n'a pas répondu aux attentes formulés dans le cahier des charges, donc la société Parrot peut mettre fin au pour-parler et ne crain pas la demande de réparation
+
+## Sylogisme 2
+
+### Fait :
+	Après avoir conclu le contrat qui fixe le prix des capteurs vendu par Altai, ces derniers décide de vouloir revenir sur cette décisition et de modifier le prix, ce que la société Parrot refuse
+### Problème de droit 
+	Quelle sont les modalités de la modification d'un contrat
+### Règles de droit 
+	Selon l'article 1101 du code civil, le contrat est un accord de volontés entre deux ou plusieurs personnes
+	%% Selon l'article 1109 du code civil, un contrat est : 
+		Consensuel lorsqu'il se forme par simlpe échange de consentement quelconques de la part des contractants
+		Solennel lorsque sa validité est déterminée par la loi
+		Réel lorsque que sa formation est subordonnée à la remise d'une chose %%
+	Selon l'article 1114 du code civil, si la personne n'est pas déterminé par le contrat, alors des négociations peuvent avoir lieux avec son auteur
+	Selon l'article 1118 du code civil, tant que l'acceptation n'est pas parvenue à l'offrant, alors elle peut être rétractée, mais seulement avant acceptation, l'acceptation non conforme à l'offre est dépourvue d'effet (est nul) sauf à constituer une offre nouvelle
+
+### Solution
+	Dans le cas ou le contrat à déjà été signé comme dans ce cas, alors Altai peut réclamer a effectuer un nouveau contrat avec Parrot si ces derniers l'accepte, dans le cas contraire de le contrat deviens donc nul est aucun des deux contractant n'aura de partie a respecter
