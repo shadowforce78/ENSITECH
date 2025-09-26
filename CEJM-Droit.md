@@ -35,6 +35,4 @@
 	Selon l'article 1118 du code civil, tant que l'acceptation n'est pas parvenue à l'offrant, alors elle peut être rétractée, mais seulement avant acceptation, l'acceptation non conforme à l'offre est dépourvue d'effet (est nul) sauf à constituer une offre nouvelle
 
 ### Solution
-	Dans le cas ou le contrat à déjà été signé comme dans ce cas, alors Altai peut réclamer a effectuer un nouveau contrat avec Parrot si ces derniers l'accepte, dans le cas contraire de le contrat deviens donc nul est aucun des deux contractant n'aura de partie a respecter
-
 	Les sociétées on signer un contrat, ce qui leurs créer des obligations, ils ont donc acceptés les éléments essentiels du contrat, donc la société Altai ne peut pas revenir sur les termes du contrat 
