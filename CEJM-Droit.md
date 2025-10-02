@@ -36,3 +36,22 @@
 
 ### Solution
 	Les sociétées on signer un contrat, ce qui leurs créer des obligations, ils ont donc acceptés les éléments essentiels du contrat, donc la société Altai ne peut pas revenir sur les termes du contrat 
+
+
+## Sylogisme 3
+
+### Fait :
+	La société Yol, responsable de la création d'un chassis pour le drone que demande la société Parrot. Parrot souhaite faire annuler le contrat car  Yol s'avère être dans l'incompétance de remplir les demandes du cahier des charges
+
+### Problème de droit 
+	Dans quel cas un contrat peut il etre annulé par son contractant ?
+### Règles de droit 
+	Selon l'article 1101 du code civil, le contrat est un accord de volontés entre deux ou plusieurs personnes, la conclusion d'un contrat créer des obligations des deux côtés
+	Selon l'article 1128 du code civil, sont nécéssaire pour la validation d'un contrat : 
+		- Le consentement des parties
+		- Leur capacité a le contracter
+		- Un contenu licite et certain
+	Selon l'article 1178 du code civil, un contrat que ne repmlit pas les conditions requises pour sa validité est nul, aussi, indépendament de liaison du contrat, la partie lésée peut demander une réparation ou un dédommagement  
+
+### Solution
+	La socitété Yol n'est pas en mesure de pouvoir remplire sa part du contrat, il est donc nul
