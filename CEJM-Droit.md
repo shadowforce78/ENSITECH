@@ -65,5 +65,6 @@
 	En quoi une close de contrat peut être réfutée ?
 ### Règles de droit 
 	L'article L442-6 du code du commerce sanctionne les clauses d'un contrat créant un déséquilibre significatif dans les droits et obligations des parties.
+	
 ### Solution
-	Parrot à décidé de fixer une clause résolutoire et High la trouve abusive, hors elle est totalement justifié, High peut demander un édit de cette clauses, l'accepter ou alors annuler le contrat
+	L'article 15 ce contrat est une clause résolutoire, elle est mise en place afin d'avoir a éviter de poursuivre en justice la partie qui manquera a son obligation par la résilliance direct du contrat
