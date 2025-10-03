@@ -32,3 +32,32 @@ e) How do Facebook employees determine who can use the sleep pods?
 	First-come First-serve but everyone can come in
 f) What types of food facilities are there in the Facebook London office? 
 	Free food, can bring your family, all type of food...
+
+
+
+## Expression 
+![[Pasted image 20251003120036.png]]
+
+Hello everyone,
+I am writing this email to share some important information regarding our IT environment. If you are receiving this message, it is because you are part of **International Company** and directly concerned by these updates.
+
+As an IT Support Assistant, I would like to remind you that information technology plays a crucial role in ensuring the efficiency, productivity, and security of our daily work. A well-maintained IT system allows us to collaborate smoothly and avoid unnecessary interruptions.
+
+Starting next week, a major security update will be deployed across the company’s systems. This update is essential to strengthen our protection against potential cyber threats and to keep our infrastructure safe. In order for the changes to be applied successfully, every employee will be required to restart their computer after the update is installed.
+
+Before this update takes place, we kindly ask each of you to perform a quick check-up of your work environment. Please make sure that:
+
+- Your computer is working properly,
+    
+- Your internet connection is stable,
+    
+- All necessary software is installed and updated.
+    
+
+By taking these simple steps, we can quickly identify if any issue arises after the update and solve it efficiently.
+
+Thank you all for your cooperation and attention.
+
+Best regards,
+Adam Planque
+IT Support Assistant
