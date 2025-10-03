@@ -41,8 +41,7 @@
 ## Syllogisme 3
 
 ### Fait :
-	La société Yol, responsable de la création d'un chassis pour le drone que demande la société Parrot. Parrot souhaite faire annuler le contrat car  Yol s'avère être dans l'incompétance de remplir les demandes du cahier des charges
-
+	La société Parrot a conclu un contrat avec la société Yol pour la fabrication d'un chassis de drone. Cependant au bout de quelques mois la socitété Parrot se rend compte que la socitété Yol lui a caché qu'elle n'avait pas les compétances pour répondre aux attentes du cahier des charges. La société Parrot souhaite faire annuler le contrat 
 ### Problème de droit 
 	Dans quel cas un contrat peut il etre annulé par son contractant ?
 ### Règles de droit 
