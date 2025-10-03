@@ -1,6 +1,6 @@
 # Chapitre 1
 
-## Sylogisme 1
+## Syllogisme 1
 
 ### Fait :
 	La société Parrot est en pour-parler depuis trois mois avec la société Altai pour la réalistation d'un capteur solaire. Cependant le prototype proposé ne répond pas au cahier des charges. La société Parrot souhaite mettre fin au négociation.
@@ -17,7 +17,7 @@
 ### Solution
 	En l'espèce la société Parrot satisfait les exigeance de bonnes foi, Parrot a également donné toutes les informations importantes dans son cahier des charges. Malgrés des négociations de trois mois la société Altai n'a pas répondu aux attentes formulés dans le cahier des charges, donc la société Parrot peut mettre fin au pour-parler et ne crain pas la demande de réparation
 
-## Sylogisme 2
+## Syllogisme 2
 
 ### Fait :
 	Les socitétées Parrot et Altai se sont mises d'accord sur les conditions du contrats et notamment le prix. Cependant la société Altai souhaite revenir sur le prix fixé. 
@@ -38,7 +38,7 @@
 	Les sociétées on signer un contrat, ce qui leurs créer des obligations, ils ont donc acceptés les éléments essentiels du contrat, donc la société Altai ne peut pas revenir sur les termes du contrat 
 
 
-## Sylogisme 3
+## Syllogisme 3
 
 ### Fait :
 	La société Yol, responsable de la création d'un chassis pour le drone que demande la société Parrot. Parrot souhaite faire annuler le contrat car  Yol s'avère être dans l'incompétance de remplir les demandes du cahier des charges
