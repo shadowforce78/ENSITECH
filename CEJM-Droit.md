@@ -52,6 +52,18 @@
 		- Leur capacité a le contracter
 		- Un contenu licite et certain
 	Selon l'article 1178 du code civil, un contrat que ne repmlit pas les conditions requises pour sa validité est nul, aussi, indépendament de liaison du contrat, la partie lésée peut demander une réparation ou un dédommagement  
-
+	La cour de cassation précise la définition du dol 
 ### Solution
-	La socitété Yol n'est pas en mesure de pouvoir remplire sa part du contrat, il est donc nul
+	La socitété Yol n'est pas en mesure de pouvoir remplire sa part du contrat, il est donc nul, la société Parrot pourra demander l'annulation du contrat ainsi que des dommages et interêt 
+
+
+## Syllogisme 4
+
+### Fait :
+	Parrot a conclu un nouveau contrat avec la société High, la directice de cette société trouve qu'une des clauses du contrat (la 15) est abusive
+### Problème de droit 
+	En quoi une close de contrat peut être réfutée ?
+### Règles de droit 
+	L'article L442-6 du code du commerce sanctionne les clauses d'un contrat créant un déséquilibre significatif dans les droits et obligations des parties.
+### Solution
+	Parrot à décidé de fixer une clause résolutoire et High la trouve abusive, hors elle est totalement justifié, High peut demander un édit de cette clauses, l'accepter ou alors annuler le contrat
