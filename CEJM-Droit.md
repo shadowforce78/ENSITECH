@@ -23,7 +23,7 @@
 	Les socitétées Parrot et Altai se sont mises d'accord sur les conditions du contrats et notamment le prix. Cependant la société Altai souhaite revenir sur le prix fixé. 
 
 ### Problème de droit 
-	Quelles sont les conditions de modification d'un contrat
+	Quelles sont les conditions de modification d'un contrat ?
 ### Règles de droit 
 	Selon l'article 1101 du code civil, le contrat est un accord de volontés entre deux ou plusieurs personnes, la conclusion d'un contrat créer des obligations
 	Selon l'article 1109 du code civil, un contrat est : 
@@ -60,9 +60,9 @@
 ## Syllogisme 4
 
 ### Fait :
-	Parrot a conclu un nouveau contrat avec la société High, la directice de cette société trouve qu'une des clauses du contrat (la 15) est abusive
+	La société Parrot a conclu un contrat avec la société High. Dans ce contrat est inséré une close résolutoire (clause 15) appliquable uniquement au préstataire. Le gérant de la société High considère que cette clause abusive
 ### Problème de droit 
-	En quoi une close de contrat peut être réfutée ?
+	A quelles conditions une clause peut-elle être abusive ?
 ### Règles de droit 
 	L'article L442-6 du code du commerce sanctionne les clauses d'un contrat créant un déséquilibre significatif dans les droits et obligations des parties.
 	
