@@ -64,7 +64,7 @@
 ### Problème de droit 
 	A quelles conditions une clause peut-elle être abusive ?
 ### Règles de droit 
-	L'article L442-6 du code du commerce sanctionne les clauses d'un contrat créant un déséquilibre significatif dans les droits et obligations des parties.
+	En vertue de l'article L442-6, une clause est abusive lorsqu'elle créé un déséquilibre significatif entre les droits et les obligations des parties dans un contrat.
 	
 ### Solution
-	L'article 15 ce contrat est une clause résolutoire, elle est mise en place afin d'avoir a éviter de poursuivre en justice la partie qui manquera a son obligation par la résilliance direct du contrat
+	En l'espèce la clause resolutoire n'est prevue que pour une partie (le prestataire) et pas pour les manquements du client. Donc cette clause 15 est une clause abusive qui créé un déséquilibre significatif entre les droits et les obligations pesant sur le prestataire et les droits et obligations de la société Parrot, cette clause est donc nulle et donc réputée non écrite.
