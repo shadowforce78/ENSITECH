@@ -63,8 +63,37 @@ Adam Planque
 IT Support Assistant
 
 
+![[Drawing 2025-10-17 11.30.21.excalidraw]]
 
 
 
+**Following footprints to better bait** 
+
+Les attaques de phishings on doublé depuis 2020. Le succès des attaques de phishing repose sur l'authenticité du contenu des messages qui sont envoyé. Toutes les attaques de phishing demande certaine informations sur la personne ciblé, et ces informations peuvent être obtenues depuis leurs empreintes digitals
+
+Les hackers peuvent utiliser et obtenir librement des outils en "Open Source" pour trouver les empreintes digitales de leur victimes. Les attaquants peuvent miner les empreintes digitales des cibles, elle peuvent contenir des audios, vidéo, pour extraire les informations comme les contacts, relations, profession, carrière, like, dislike, intérêts, passion, voyage et lieux fréquemment visités 
+
+Ils peuvent utiliser ces informations pour construire des messages de phishing qui apparaissent encore plus légitime. Les attaquants peuvent délivrer ces messages personnalisé, mails de phishing, a la victime ou alors se faire passer pour la victime pour attaquer ses collègues, amis et famille. Ces attaques peuvent même avoir les personnes qui sont entrainés a les éviter. 
+
+L'une des formes les plus efficaces d'attaques par phishing est celle des attaques par compromission des e-mails professionnels. Dans le cadre de ces attaques, les pirates se font passer pour des personnes ayant des relations professionnelles légitimes (collègues, fournisseurs et clients) afin de lancer des transactions financières frauduleuses.
+
+Un bon exemple est l'attaque qui a visé la société Ubiquity Networks Inc. en 2015. L'attaquant a envoyé des e-mails qui semblaient provenir de cadres supérieurs à des employés. L'e-mail demandait aux employés d'effectuer des virements bancaires, ce qui a entraîné des transferts frauduleux de 46,7 millions de dollars.
+
+L'accès à l'ordinateur d'une victime d'une attaque de phishing peut permettre à l'attaquant d'accéder aux réseaux et aux systèmes de l'employeur et des clients de la victime. Par exemple, l'un des employés du fournisseur de systèmes CVC du détaillant Target a été victime d'une attaque de phishing. Les attaquants ont utilisé son poste de travail pour accéder au réseau interne de Target, puis à leur réseau de paiement. Ils ont profité de l'occasion pour infecter les systèmes de point de vente utilisés par Target et voler les données de 70 millions de cartes de crédit.
+
+**A big problem and what to do about it**
+
+La société de sécurité informatique Trend Micro a constaté que 91 % des attaques au cours desquelles les pirates ont accédé à des réseaux sans être détectés et ont utilisé cet accès pendant un certain temps ont commencé par des messages de phishing. Le rapport d'enquête sur les violations de données de Verizon a révélé que 25 % de tous les incidents de violation de données impliquaient du phishing.  
+
+Compte tenu du rôle important joué par l'hameçonnage dans les cyberattaques, je pense qu'il est important que les organisations sensibilisent leurs employés et leurs membres à la gestion de leur empreinte numérique. Cette formation devrait porter sur la manière de déterminer l'étendue de votre empreinte numérique, de naviguer en toute sécurité et d'utiliser les réseaux sociaux de manière responsable.
 
 
+5. Answer the following questions in your own words, using complete sentences. Then compare your answers with a partner. 
+	1. What do digital footprints mean? Do they affect cyber security? 
+		1. Digital footprints means all your presence on the internet, everything you put on social media, name, address, age... They do affect cyber security because more digital footprints on internet is more data to protect from hackers
+	2.  What is a phishing attack, and explain how hackers make a cyber attack? 
+		1. A phishing attack is a form of hacking when you send copy of officials login webpage for exemple instagram, google... People will not look at the link and enter their credentials, wich will and the and of the hacker.
+	3. Describe with an example the most successful form of a phishing attack. 
+		1. The most successful form of phishing attack is fake business mail from company, you receive a mail from the company you work for, but in reality its a fake email address that look like the real one, so you don't really pay attention to the content and juste follow the protocol the email says, and often its login to the company servers to make fake reset password...
+	4. What is the possible solution to prevent phishing messages in the cyber-attack? 
+		1. Be more focused and pay attention to every details from the mail you receive, and do not open a mail attachement from someone you don't know
