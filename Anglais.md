@@ -67,8 +67,6 @@ IT Support Assistant
 
 
 
-**Following footprints to better bait** 
-
 Les attaques de phishings on doublé depuis 2020. Le succès des attaques de phishing repose sur l'authenticité du contenu des messages qui sont envoyé. Toutes les attaques de phishing demande certaine informations sur la personne ciblé, et ces informations peuvent être obtenues depuis leurs empreintes digitals
 
 Les hackers peuvent utiliser et obtenir librement des outils en "Open Source" pour trouver les empreintes digitales de leur victimes. Les attaquants peuvent miner les empreintes digitales des cibles, elle peuvent contenir des audios, vidéo, pour extraire les informations comme les contacts, relations, profession, carrière, like, dislike, intérêts, passion, voyage et lieux fréquemment visités 
@@ -80,8 +78,6 @@ L'une des formes les plus efficaces d'attaques par phishing est celle des attaqu
 Un bon exemple est l'attaque qui a visé la société Ubiquity Networks Inc. en 2015. L'attaquant a envoyé des e-mails qui semblaient provenir de cadres supérieurs à des employés. L'e-mail demandait aux employés d'effectuer des virements bancaires, ce qui a entraîné des transferts frauduleux de 46,7 millions de dollars.
 
 L'accès à l'ordinateur d'une victime d'une attaque de phishing peut permettre à l'attaquant d'accéder aux réseaux et aux systèmes de l'employeur et des clients de la victime. Par exemple, l'un des employés du fournisseur de systèmes CVC du détaillant Target a été victime d'une attaque de phishing. Les attaquants ont utilisé son poste de travail pour accéder au réseau interne de Target, puis à leur réseau de paiement. Ils ont profité de l'occasion pour infecter les systèmes de point de vente utilisés par Target et voler les données de 70 millions de cartes de crédit.
-
-**A big problem and what to do about it**
 
 La société de sécurité informatique Trend Micro a constaté que 91 % des attaques au cours desquelles les pirates ont accédé à des réseaux sans être détectés et ont utilisé cet accès pendant un certain temps ont commencé par des messages de phishing. Le rapport d'enquête sur les violations de données de Verizon a révélé que 25 % de tous les incidents de violation de données impliquaient du phishing.  
 
