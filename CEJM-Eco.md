@@ -50,3 +50,27 @@ Services apporté par : Crédit Coopératif :
 	1) Il y a asymétries d'information dans la filière du chocolat car d'un coté les grands groupe industrielle sont très bien informés, maitrise toute la chaine de production et peuvent imposer leur prix a des petits producteur isolé n'ayant pas accès aux données du marché. Ainsi il y a un déséquilibre sur ce marché.
 3) Montrer que le prix n'est pas le seul facteur de décision dans l'achat du consommateur 
 	1) Le prix est un facteur important dans la prise de décision d'achat, mais les consommateurs privilégies les valeurs éthiques et environnementales. Ils sont sensibles a la traçabilité et a la qualité et sont prêt a payer plus cher pour soutenir une économie basé sur le développement durable
+
+
+
+# Cas pratique 1 chapitre 4
+
+Trouver une idée =>
+	Créer une entreprise de Probiotique de meilleur qualités que ceux vendu en france actuellement
+	
+Recherche de financement =>
+	Création d'une campagne de crowdfuncind sur Ulule + Auto financement
+
+Recherche d'aide et financements => 
+	Contact des petits influenceurs
+
+Choix du statuts juridique => 
+	Les statuts de Probiopharma sont déposés
+
+# Cas pratique 2 chapitre 4
+
+La démarche est bien entrepreneuriale l'idée est innovante, intuitif. Aussi le marché français n'étais pas développer dans ce domaine et une prise de risque en vendant une de leur maison et emprunt familiaux.
+
+Ils se sont focalisé sur un marché de niche en France, marque avec une forte identité 
+
+Moins d'endettements, plus d'indépendance 
