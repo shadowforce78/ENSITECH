@@ -74,3 +74,34 @@ La démarche est bien entrepreneuriale l'idée est innovante, intuitif. Aussi le
 Ils se sont focalisé sur un marché de niche en France, marque avec une forte identité 
 
 Moins d'endettements, plus d'indépendance 
+
+# Cas pratique chapitre 5
+
+## 1) Quelles sont les finalités recherchées par l'entreprise VEJA ?
+
+Veja cherche une finalité économique, satisfaire ses clients et faire un maximum de profit au long terme : 
+- Finalité environnementale : Utilisation de matériaux durable et transport par bateau pour réduire l'empreinte
+- Finalité sociale : 40h semaine 
+- Finalité sociétale : emploi de personne en situation de handicape, et garantie pour les agriculteurs péruviens
+
+## 2) Peut-on dire que l'activité de cette entreprise relève d'une démarche de RSE ?
+
+Oui Veja a effectué plusieurs stratégie dans sa démarche RSE, par exemple : 
+- Fabrication de ses produits en Europe, plus proches des clients Européens
+- Création d'un design "instagrammable" pour s'adapter au besoins des clients
+
+C'est la contribution des entreprises au développement durable. Elle consiste à intégrer des préoccupations sociale environnementale et économique et dans ses interactions avec ses parties prenantes, elle a mis en place une démarche de RSE en utilisant des matériaux durables, tout en promouvant des pratiques éthiques et en créant de l'emploi
+
+## 3) Quelles sont les parties prenantes de Veja
+
+Les parties prenantes sont les personnes qui sont essentiels au bon fonctionnement de l'entreprise, parmi ces personnes on retrouve : 
+- (Externe) Les clients, c'est eux qui font le chiffre d'affaire de Veja, sans clients aucune entreprise n'existerai
+- (Interne) Les dirigeants, c'est eux qui prennent les décisions et stratégies commerciale / environnementale pour s'aligner au besoin et envie des clients
+
+
+## 4) Etablissez le lien entre la finalité sociétale de Veja et sa réponse aux attentes des parties prenantes
+
+La finalité sociétale de Veja permet de satisfaire les attentes de ses parties prenantes qui souhaite que l'entreprise leur propose, qui souhaite que l'entreprise leur propose des produits de qualité minimisant l'empreinte carbone et respectant les valeurs sociales et environnementale 
+
+## 5) Pourquoi peut-on dire que l'entreprise Veja est performante
+En ce qui concerne sa performance sociale, son indexe de professionnalité homme femme est de 99/100. En ce qui concerne sa performance environnementale et a trouvé des alternatives au cuir 

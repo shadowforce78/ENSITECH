@@ -93,3 +93,104 @@ Compte tenu du rôle important joué par l'hameçonnage dans les cyberattaques, 
 		1. The most successful form of phishing attack is fake business mail from company, you receive a mail from the company you work for, but in reality its a fake email address that look like the real one, so you don't really pay attention to the content and juste follow the protocol the email says, and often its login to the company servers to make fake reset password...
 	4. What is the possible solution to prevent phishing messages in the cyber-attack? 
 		1. Be more focused and pay attention to every details from the mail you receive, and do not open a mail attachement from someone you don't know
+
+
+KEYWORDS
+
+1. She called the police because she thought an **intruder** was in her house.
+2. To protect yourself against **malware,** do not open emails from unknown senders.
+3. After the hurricane hit, the town was **inundated** with offers of help.
+4. The report **underscored** that the project enjoyed considerable support from both companies.
+5. The GDPR sets rules to ensure that companies protect customers' personal information from data **breaches**.
+6. I need to improve my French level **to bolster** my resume to get a job in France.:
+7. Businesses need to have a data **repository** to protect sensitive data and maintain the quality and integrity of the data.
+8. The poor economic conditions **have stymied** the company's growth.
+9. If you are not careful, your computer could be affected by **malicious** code such as viruses, Trojan horses and worms.
+10. With only two months before the competition, the **stakes** are high as they enter the final round.
+
+READING
+
+**Read the article, then answer the comprehension questions.**
+
+**How AI is shaping the cybersecurity arms race**
+
+Adapted from _The Conversation February 23, 2022_
+
+THEME: CYBER SECURITY AND DATA PRIVACY
+
+Tip: If you see a word you are unfamiliar with, continue reading and attempt to understand the meaning based on the context of the word.
+
+1. The average business receives 10,000 alerts every day from the various software tools it uses to monitor for intruders, malware and other threats. Cybersecurity staff often find themselves inundated with data they need to sort through to manage their cyber defenses.
+
+2. The stakes are high. Cyberattacks are increasing and affect thousands of organizations and millions of people in the U.S. alone.
+
+3. These challenges underscore the need for better ways to stem the tide of cyber-breaches. Artificial intelligence is particularly well suited to finding patterns in huge amounts of data. As a researcher who studies AI and cybersecurity, I find that AI is emerging as a much-needed tool in the cybersecurity toolkit.
+
+**Helping humans**
+
+4. There are two main ways AI is bolstering cybersecurity. First, AI can help automate many tasks that a human analyst would often handle manually. These include automatically detecting unknown workstations, servers, code repositories and other hardware and software on a network. It can also determine how best to allocate security defenses. These are data-intensive tasks, and AI has the potential to sift through terabytes of data much more efficiently and effectively than a human could ever do.
+
+5. Second, AI can help detect patterns within large quantities of data that human analysts can't see. For example, AI could detect the key linguistic patterns of hackers posting emerging threats in the dark web and alert analysts.
+
+6. More specifically, AI-enabled analytics can help discern the jargon and code words hackers develop to refer to their new tools, techniques and procedures. One example is using the name Mirai to mean botnet. Hackers developed the term to hide the botnet topic from law enforcement and cyberthreat intelligence professionals.
+
+7. AI has already seen some early successes in cybersecurity. Increasingly, companies such as FireEye, Microsoft and Google are developing innovative AI approaches to detect malware, stymie phishing campaigns and monitor the spread of disinformation. One notable success is Microsoft's Cyber Signals program that uses AI to analyze 24 trillion security signals, 40 nation-state groups and 140 hacker groups to produce cyberthreat intelligence for C-level executives.
+
+8. Federal funding agencies such as the Department of Defense and the National Science Foundation recognize the potential of AI for cybersecurity and have invested tens of millions of dollars to develop advanced AI tools for extracting insights from data generated from the dark web and open-source software platforms such as GitHub, a global software development code repository where hackers, too, can share code.
+
+**Downsides of AI**
+
+9. Despite the significant benefits of AI for cybersecurity, cybersecurity professionals have questions and concerns about AI's role. Companies might be thinking about replacing their human analysts with AI systems, but might be worried about how much they can trust automated systems. It's also not clear whether and how the well-documented AI problems of bias, fairness, transparency and ethics will emerge in AI-based cybersecurity systems.
+
+10. Also, AI is useful not only for cybersecurity professionals trying to turn the tide against cyberattacks, but also for malicious hackers. Attackers are using methods like reinforcement learning and generative adversarial networks, which generate new content or software based on limited examples, to produce new types of cyberattacks that can evade cyber defenses.
+
+11. Just as AI can generate realistic-looking fake faces from photos of real people, the software can be used to create new forms of malware based on existing code. Researchers and cybersecurity professionals
+
+are still learning all the ways malicious hackers are using AI.
+
+**The road ahead**
+
+12. Looking forward, there is significant room for growth for AI in cybersecurity. In particular, the predictions AI systems make based on the patterns they identify will help analysts respond to emerging threats. AI is an intriguing tool that could help stem the tide of cyberattacks and, with careful cultivation, could become a required tool for the next generation of cybersecurity professionals.
+
+13. The current pace of innovation in AI, however, indicates that fully automated cyber battles between AI attackers and AI defenders is likely years away.
+
+**Answer the following questions in your own words, using complete sentences.**
+
+1. What became the prerequisite for AI to confront the challenges of cyber breaches?
+
+2. Discuss in detail how efficiently AI is playing its role in cyber security.
+
+3. How are social media companies and federal agencies using AI for cyber security?
+
+4. Are there any pitfalls of AI? And does this technology need improvement?
+
+
+
+**1. What became the prerequisite for AI to confront the challenges of cyber breaches?**  
+AI became necessary because cyberattacks are increasing, and companies receive too much data for humans to analyze alone. There was a need for better tools to manage and stop cyber breaches.
+
+---
+
+**2. Discuss in detail how efficiently AI is playing its role in cyber security.**  
+AI helps by automating many tasks, like detecting unknown devices or software on a network. It also finds hidden patterns in large amounts of data that humans can’t see, helping to detect hackers and new threats faster and more accurately.
+
+---
+
+**3. How are social media companies and federal agencies using AI for cyber security?**  
+Companies like Microsoft, Google, and FireEye use AI to detect malware and stop phishing or fake information. Federal agencies invest money in AI research to analyze data from the dark web and code platforms like GitHub to find cyber threats.
+
+---
+
+**4. Are there any pitfalls of AI? And does this technology need improvement?**  
+Yes, AI has some problems. It can be biased or not always fair and transparent. Also, hackers can use AI to create new attacks. So, AI still needs improvement to become safer and more reliable in cybersecurity.
+
+
+- Do you think there are any disadvantages to using AI in every sector? Discuss increased unemployment rates because AI is replacing human resources.
+		Yes, there are disadvantages.  
+		AI can replace human workers, which causes **unemployment**.  
+		Many people may lose their jobs because machines can work faster and cheaper.  
+		This is a big problem for workers who don’t have the skills to use or control AI.
+
+
+
+![[Pasted image 20251024125217.png]]
