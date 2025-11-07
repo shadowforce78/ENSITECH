@@ -194,3 +194,6 @@ Yes, AI has some problems. It can be biased or not always fair and transparent. 
 
 
 ![[Pasted image 20251024125217.png]]
+
+
+
