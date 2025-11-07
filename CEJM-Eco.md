@@ -111,4 +111,18 @@ En ce qui concerne sa performance sociale, son indexe de professionnalité homme
 
 # Cas pratique chapitre 6
 
-1) Autorisation a Free pour être le 4 ème opérateur mobile, 
+**1. Identifiez et justifiez les différentes interventions de l’État sur le marché des télécoms.**  
+L’État est intervenu de plusieurs manières :  
+- En autorisant l’entrée de Free Mobile sur le marché via l’Arcep (régulation).  
+- En organisant des réunions avec les opérateurs pour favoriser un modèle économique créateur d’emplois et d’investissements (Doc. 1).  
+- En lançant le *New Deal mobile* pour généraliser la couverture 4G et réduire les zones blanches (Doc. 2).  
+- En attribuant les fréquences 5G via l’Arcep et en soutenant son déploiement dans le cadre du plan *France 2030* (Doc. 3).  
+
+**2. En quoi peut-on dire que l’État a orienté l’activité de Free Mobile ?**  
+L’État a orienté l’activité de Free Mobile en lui accordant une licence d’opérateur mobile en 2009, lui permettant d’entrer sur le marché. Il a également fixé des règles (via l’Arcep) et des obligations dans le cadre du *New Deal mobile*, incitant Free à investir dans le déploiement des réseaux 4G et 5G.  
+
+**3. Quelle fonction de l’État est mobilisée dans le cadre du déploiement de la 5G ? Justifiez.**  
+La fonction **régulatrice et planificatrice** est mobilisée. L’État, via l’Arcep, organise les enchères pour l’attribution des fréquences 5G et fixe les règles. Il soutient également ce déploiement dans le cadre du plan *France 2030*, afin de renforcer la compétitivité économique.  
+
+**4. Le New Deal mobile relève-t-il de la politique conjoncturelle ou structurelle ? Justifiez.**  
+Le *New Deal mobile* relève de la **politique structurelle**. Il vise à moderniser et améliorer durablement les infrastructures de télécommunications (généralisation de la 4G, réduction des zones blanches), et non à agir à court terme sur la conjoncture économique.
