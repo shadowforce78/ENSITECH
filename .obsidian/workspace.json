@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f33880ed76077edb",
+        "id": "5acb37f7a59a05ee",
         "type": "tabs",
         "children": [
           {
-            "id": "0b131a615c752fae",
+            "id": "a247cfb4a8be249d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anglais.md",
+                "file": "CEJM-Eco.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Anglais"
+              "title": "CEJM-Eco"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "6d10110b2393c0d8",
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CEJM.md",
+                "file": "CEJM-Eco.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from CEJM"
+              "title": "Outgoing links from CEJM-Eco"
             }
           },
           {
@@ -166,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 273.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,25 +181,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0b131a615c752fae",
+  "active": "8c3f6019af43a976",
   "lastOpenFiles": [
-    "Pasted image 20251024125217.png",
-    "Anglais/~WRL1508.tmp",
-    "Anglais/~WRD1497.tmp",
-    "Anglais/~WRL0094.tmp",
-    "Anglais/~WRD0071.tmp",
-    "Anglais/~WRL0005.tmp",
-    "Anglais/~WRD0004.tmp",
-    "Anglais/~WRL0003.tmp",
-    "Anglais/~WRD0002.tmp",
-    "Anglais/~WRL0001.tmp",
-    "Anglais/~WRD0000.tmp",
-    "CEJM-Eco.md",
+    "CEJM-Droit.md",
     "Pasted image 20251017113011.png",
     "Pasted Image 20251017113135_548.png",
-    "CEJM-Droit.md",
-    "CGE.md",
+    "Pasted image 20251024125217.png",
+    "Untitled 1.base",
+    "Untitled.base",
+    "Untitled.canvas",
+    "CEJM-Eco.md",
+    "CEJM/CEJM 1ère ANNEE 2025-2026/lu11956867q.tmp",
+    "CEJM/CEJM 1ère ANNEE 2025-2026/lu11956867o.tmp",
+    "CEJM/CEJM 1ère ANNEE 2025-2026/lu11956863j.tmp",
+    "CEJM/CEJM 1ère ANNEE 2025-2026/lu11956863h.tmp",
+    "CEJM/CEJM 1ère ANNEE 2025-2026/lu11956863f.tmp",
+    "CEJM/CEJM 1ère ANNEE 2025-2026/lu11956860p.tmp",
+    "CEJM/CEJM 1ère ANNEE 2025-2026/lu1195685uu.tmp",
     "Anglais.md",
+    "Anglais/~WRL1508.tmp",
+    "CGE.md",
     "Excalidraw/Drawing 2025-10-17 11.30.21.excalidraw.md",
     "README.md",
     "Syllogisme 4.md",

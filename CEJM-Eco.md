@@ -104,4 +104,11 @@ Les parties prenantes sont les personnes qui sont essentiels au bon fonctionneme
 La finalité sociétale de Veja permet de satisfaire les attentes de ses parties prenantes qui souhaite que l'entreprise leur propose, qui souhaite que l'entreprise leur propose des produits de qualité minimisant l'empreinte carbone et respectant les valeurs sociales et environnementale 
 
 ## 5) Pourquoi peut-on dire que l'entreprise Veja est performante
-En ce qui concerne sa performance sociale, son indexe de professionnalité homme femme est de 99/100. En ce qui concerne sa performance environnementale et a trouvé des alternatives au cuir 
+En ce qui concerne sa performance sociale, son indexe de professionnalité homme femme est de 99/100. En ce qui concerne sa performance environnementale et a trouvé des alternatives au cuir
+
+
+
+
+# Cas pratique chapitre 6
+
+1) Autorisation a Free pour être le 4 ème opérateur mobile, 
