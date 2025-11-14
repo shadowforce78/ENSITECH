@@ -13,12 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CEJM-Eco.md",
+                "file": "Anglais.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CEJM-Eco"
+              "title": "Anglais"
+            }
+          },
+          {
+            "id": "47a4b5c7f574ff2c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-11-14 12.34.48.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-11-14 12.34.48.excalidraw"
             }
           }
         ]
@@ -183,19 +195,20 @@
   },
   "active": "a247cfb4a8be249d",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-11-14 12.34.48.excalidraw.md",
+    "Anglais.md",
+    "Pasted Image 20251114123451_485.png",
+    "CEJM-Eco.md",
     "CEJM/CEJM 1ère ANNEE 2025-2026/lu49221vw1.tmp",
     "CEJM/CEJM 1ère ANNEE 2025-2026/lu49221vui.tmp",
     "CEJM/CEJM 1ère ANNEE 2025-2026/QUESTIONS EXPOSE CHAP 7.docx",
     "CEJM/CEJM 1ère ANNEE 2025-2026/QUESTIONS EXPOSE CHAP 7.docx.opdownload",
-    "Anglais.md",
     "Anglais/lu2956964w08.tmp",
     "Anglais/lu2956964vzu.tmp",
     "Anglais/lu2956964vxh.tmp",
     "Anglais/Charts.docx",
     "Anglais/lu2956964vrq.tmp",
     "Anglais/lu2956964vmo.tmp",
-    "Anglais/IT_Incident_Report_Practice_Worksheet.docx",
-    "CEJM-Eco.md",
     "CEJM-Droit.md",
     "Pasted image 20251017113011.png",
     "Pasted Image 20251017113135_548.png",

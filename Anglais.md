@@ -197,3 +197,31 @@ Yes, AI has some problems. It can be biased or not always fair and transparent. 
 
 
 
+
+### **1. How does a phone get infected with the virus? Briefly explain.**
+
+A phone gets infected when malicious software installs itself through dangerous links, spam messages, or unsafe apps. Once opened, the malware copies itself, spreads through messages or emails, and can secretly access the phone’s functions and data.
+
+---
+
+### **2. What are some reliable antivirus apps that can scan your phone? List at least two (2).**
+
+Reliable antivirus apps mentioned in the text include **Avast**, **AVG**, **Bitdefender**, **McAfee**, and **Norton**.
+
+---
+
+### **3. Explain three signs that your phone is infected.**
+
+One sign is **poor performance**, such as apps opening slowly or crashing.  
+Another sign is **excessive battery drain**, caused by the malware running constantly in the background.  
+A third sign is **increased data usage** or unusual billing charges that cannot be explained by normal phone activity.
+
+---
+
+### **4. What additional tips does the article give us to protect our phones from future viruses? List at least two (2).**
+
+The article recommends **avoiding suspicious links or pop-ups**, and **installing apps only from authorised app stores**.  
+It also suggests **not jailbreaking or modifying the phone**, **checking app permissions**, **regularly backing up data**, and **keeping the phone software updated**.
+
+
+![[Drawing 2025-11-14 12.34.48.excalidraw]]
