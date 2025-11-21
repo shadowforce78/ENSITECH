@@ -126,3 +126,15 @@ La fonction **régulatrice et planificatrice** est mobilisée. L’État, via l�
 
 **4. Le New Deal mobile relève-t-il de la politique conjoncturelle ou structurelle ? Justifiez.**  
 Le *New Deal mobile* relève de la **politique structurelle**. Il vise à moderniser et améliorer durablement les infrastructures de télécommunications (généralisation de la 4G, réduction des zones blanches), et non à agir à court terme sur la conjoncture économique.
+
+
+
+
+
+# Exo 1083
+
+1) Les finalités de l'entreprise sont multiple : 
+	1) Finalité écologique : relocaliser les usines pour qu'elle soit beaucoup plus proche pour eviter des emissions poluante plus importante, aussi utilisation de cotton recyclable et issue d'irigation naturelle
+	2) Finalité societale : reduire le chomage local en proposant des emplois en France (150 emplois)
+	
+2) L'indicateur de performance globale principale est bien le chiffre d'affaire realisé par l'entreprise en 2019 qui est de 8Md d'euro contre 200k en 2013
