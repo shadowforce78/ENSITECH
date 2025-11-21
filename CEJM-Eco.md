@@ -137,4 +137,8 @@ Le *New Deal mobile* relève de la **politique structurelle**. Il vise à modern
 	1) Finalité écologique : relocaliser les usines pour qu'elle soit beaucoup plus proche pour eviter des emissions poluante plus importante, aussi utilisation de cotton recyclable et issue d'irigation naturelle
 	2) Finalité societale : reduire le chomage local en proposant des emplois en France (150 emplois)
 	
-2) L'indicateur de performance globale principale est bien le chiffre d'affaire realisé par l'entreprise en 2019 qui est de 8Md d'euro contre 200k en 2013
+2) L'indicateur de performance globale principale est bien le chiffre d'affaire realisé par l'entreprise en 2019 qui est de 8M d'euro contre 200k en 2013
+
+3) Thomas Huriez est bien un entrepreneur, il a eu une idée visionaire en proposant un produit responsable au moment ou les gens commençaient a s'y interesser, il a pris de gros risque en investissant 100% des profits dans les outils de production 
+
+	C'est un entrepreneur car il est innovant, il est aussi opportuniste

@@ -225,3 +225,39 @@ It also suggests **not jailbreaking or modifying the phone**, **checking app per
 
 
 ![[Drawing 2025-11-14 12.34.48.excalidraw]]
+
+
+
+
+
+
+
+
+
+Client: Hi, my video-editing software keeps closing unexpectedly.
+
+Technician: Hello. Which software are you using?
+
+Client: Sony Vegas Pro.
+
+Technician: Understood. Does it close during startup or while editing?
+
+Client: Usually while editing, especially when I add effects.
+
+Technician: Thank you. Have you checked if your graphics drivers are up to date?
+
+Client: Not recently.
+
+Technician: Please update them and restart your computer. Also, try running Sony Vegas as an administrator.
+
+Client: Okay. Anything else?
+
+Technician: Yes. Go to the Sony Vegas settings and disable GPU acceleration temporarily. This helps if the GPU is causing instability.
+
+Client: I’ll try that.
+
+Technician: If the crash continues, clear the Vegas cache and reset the software to default settings by holding Ctrl + Shift while launching it.
+
+Client: Got it. I’ll test and see if it works.
+
+Technician: Let me know if the issue persists so we can check plugins or system logs.
