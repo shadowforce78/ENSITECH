@@ -261,3 +261,24 @@ Technician: If the crash continues, clear the Vegas cache and reset the software
 Client: Got it. I’ll test and see if it works.
 
 Technician: Let me know if the issue persists so we can check plugins or system logs.
+
+
+
+
+**8. Follow-up Writing Task – Helpdesk Ticket Summary**
+
+Write a short ticket:
+
+**Template:**
+
+- **Issue:** **Problem while trying to connect remotely to the dns server**
+    
+- **User:** **Adam Planque – DSI Member**
+    
+- **Symptoms:** **Cannot connect ssh: Could not resolve hostname [srv-dns@server](mailto:srv-dns@server) : Name or service not known**
+    
+- **Troubleshooting steps taken:** **Re-checked the domain name, checked my internet connection and VPN connection, restarting my computer and finally reinstalling ssh**
+    
+- **Resolution:** **The port 22 on the dns server was disabled by the new intern, by going to the server manually with a cable the port has been reopen and the remote connection can now be etablished**
+    
+- **Status:** Resolved
