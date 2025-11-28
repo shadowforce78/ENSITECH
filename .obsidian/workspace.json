@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anglais.md",
+                "file": "CEJM-Eco.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Anglais"
+              "title": "CEJM-Eco"
             }
           }
         ]
@@ -181,22 +181,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8c3f6019af43a976",
+  "active": "1413f1f05bc03236",
   "lastOpenFiles": [
+    "CEJM/lu6581c6yg.tmp",
+    "CEJM/Les-outils-de-la-politique-conjoncturelle.pptx",
+    "CEJM/Les-outils-de-la-politique-conjoncturelle.pptx.opdownload",
+    "CEJM/lu6581c6kt.tmp",
+    "CEJM/lu6581c6jl.tmp",
+    "CEJM/lu6581c6gm.tmp",
+    "CEJM/LIntervention-de-lEtat-Outils-et-Impacts-Economiques.pptx",
+    "CEJM/LIntervention-de-lEtat-Outils-et-Impacts-Economiques.pptx.opdownload",
+    "Anglais.md",
     "Anglais/remotly.html",
     "Anglais/remotly_files/webmail_lws.svg",
     "Anglais/remotly_files/ui.min.js",
     "Anglais/remotly_files/styles.min.css",
-    "Anglais/remotly_files/styles(1).min.css",
-    "Anglais/remotly_files/qrcode.min.js",
     "Anglais/remotly_files/oeil_ferme.svg",
-    "Anglais/remotly_files/lwsmail_config.js",
-    "Anglais/remotly_files/lwsmail_config.css",
     "Anglais/remotly_files/lws_emails.avif",
-    "Anglais/remotly_files/libkolab.min.css",
-    "Anglais/remotly_files/libcalendaring.js",
-    "Anglais/remotly_files/layouts.js",
-    "Anglais/remotly_files/jstz.min.js",
     "CEJM-Eco.md",
     "Excalidraw/Drawing 2025-11-14 12.34.48.excalidraw.md",
     "img/Pasted image 20251003120036.png",
@@ -204,7 +205,6 @@
     "CGE.md",
     "CEJM-Droit.md",
     "README.md",
-    "Anglais.md",
     "Pasted Image 20251114123451_485.png",
     "Pasted image 20251017113011.png",
     "Pasted Image 20251017113135_548.png",

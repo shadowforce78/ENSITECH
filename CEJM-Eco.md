@@ -142,3 +142,41 @@ Le *New Deal mobile* relève de la **politique structurelle**. Il vise à modern
 3) Thomas Huriez est bien un entrepreneur, il a eu une idée visionaire en proposant un produit responsable au moment ou les gens commençaient a s'y interesser, il a pris de gros risque en investissant 100% des profits dans les outils de production 
 
 	C'est un entrepreneur car il est innovant, il est aussi opportuniste
+
+
+# Question Expose - Chap 7
+
+**1/ Quels sont les outils de la politique conjoncturelle ?**
+
+Les outils de la politique conjoncturelle sont la **politique budgétaire** (via le budget de l'État, les dépenses et les recettes publiques) et la **politique monétaire** (via le taux directeur de la banque centrale).
+
+**2/ Quels sont les outils de la politique structurelle ?**
+
+Les documents n'abordent pas explicitement les outils de la politique structurelle. En général, celle-ci inclut des réformes de long terme sur le système économique, comme les politiques de formation professionnelle, les politiques environnementales, les réformes du marché du travail ou la régulation des secteurs économiques.
+
+**3/ Quel est l’impact des politiques sur l’environnement des entreprises ?**
+
+- **Les 2 principaux agents économiques vers qui sont tournées ces politiques** :  
+  Les **ménages** (consommation) et les **entreprises** (investissement, production).
+
+- **Impact des politiques de l’offre (outil + objectif)** :  
+  Outil : baisse des impôts (ex. : impôt sur les sociétés).  
+  Objectif : augmenter les marges des entreprises pour favoriser l’investissement et la production.
+
+- **Contraintes des politiques environnementales + formation professionnelle** :  
+  Ces politiques peuvent imposer des normes ou des coûts supplémentaires aux entreprises (ex. : transition écologique), mais elles visent aussi à préparer l’économie sur le long terme (formation, innovation).
+
+- **Impact des politiques de la demande (outil + objectif)** :  
+  Outil : baisse des impôts des ménages ou augmentation des dépenses publiques.  
+  Objectif : stimuler la consommation et la demande adressée aux entreprises.
+
+- **Qu’est-ce qu’une politique de relance ?**  
+  Une politique de relance est une action de l’État pour stimuler l’activité économique, en utilisant la politique budgétaire (hausse des dépenses ou baisse des impôts) ou monétaire (baisse des taux directeurs) pour augmenter la demande ou l’offre.
+
+**4/ Quelles sont les 2 principales limites de l’intervention de l’État ?**
+
+- **Contraintes budgétaires** :  
+  Le déficit public et l’accumulation de la dette limitent la capacité de l’État à intervenir (ex. : objectif de ramener le déficit à 5 % du PIB en 2025).
+
+- **Contraintes de la mondialisation** :  
+  Dans un contexte international, les politiques nationales (comme la politique monétaire dans la zone euro) doivent tenir compte des décisions supranationales (BCE) et des interdépendances économiques.
