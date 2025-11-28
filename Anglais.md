@@ -282,3 +282,29 @@ Write a short ticket:
 - **Resolution:** **The port 22 on the dns server was disabled by the new intern, by going to the server manually with a cable the port has been reopen and the remote connection can now be etablished**
     
 - **Status:** Resolved
+
+
+
+
+![[Drawing 2025-11-28 11.33.59.excalidraw]]
+
+
+**1. What does the game challenge players to do?**
+
+> The game operates like a classic platformer, challenging players to simultaneously navigate through an environment where they must dodge obstacles while collecting specific targets.
+
+**2. What specifically is the technology meant to do for a child with ADHD?**
+
+> The technology is designed to rigorously test the child every single second by presenting stimuli intended to create stress and distract them, thereby training their ability to focus.
+
+**3. According to the studies, what does the FDA claim?**
+
+> The FDA studies claim that 30% of patients no longer exhibited an attention deficit after following a specific regimen of playing the game for 25 minutes a day, five times a week, for a duration of one month.
+
+**4. Why is Dr. Hafeez skeptical?**
+
+> Dr. Hafeez is skeptical because there has long been a prevailing belief that video games actually cause or worsen attention deficits, rather than serving as a treatment for them.
+
+**5. To what extent are video games considered to be a cure for ADHD?**
+
+> They are considered a helpful visual aid for improving attention deficits; however, they are not a complete cure and cannot replace established medical treatments.
