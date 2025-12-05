@@ -308,3 +308,71 @@ Write a short ticket:
 **5. To what extent are video games considered to be a cure for ADHD?**
 
 > They are considered a helpful visual aid for improving attention deficits; however, they are not a complete cure and cannot replace established medical treatments.
+
+
+
+# Watch the video and answer the following questions:
+
+  
+
+https://youtu.be/i9x0UO8MY0g?si=MJpBNh2JJcsxG_Qr
+
+### **What is ‘the cloud’?**
+
+The cloud is a global network of servers located around the world that act together as one massive hard drive. It is not a physical cloud in the sky, but a network that stores data remotely.
+
+### **How does the Cloud work?**
+
+The cloud works by storing your files and data on servers in data centers instead of on your local device (like your computer or phone).
+
+- **Storage:** When you upload files (like backing up a phone), that information is sent to these remote servers.
+    
+- **Access:** You can access these servers and your data by connecting to the internet, allowing you to retrieve your information from anywhere.
+    
+
+### **What are the benefits?**
+
+**a) To Consumers:**
+
+- **Access Anywhere:** You can access your data anytime, anywhere, as long as you are connected to the internet.
+    
+- **Peace of Mind:** If you lose or break your device, your data is safe because it is stored remotely.
+    
+- **Cost & Space Savings:** You don't have to worry about filling up your hard drive, and you might save money by buying devices with less local storage.
+    
+
+**b) To Businesses:**
+
+- **Reduced Hardware Costs:** Companies don't need to buy expensive hardware to back up data; they can store unlimited amounts online.
+    
+- **Scalability:** Businesses can scale their usage up or down as needed.
+    
+- **Subscription Model:** Services are often based on a monthly fee (subscription pricing), making it accessible for smaller companies to grow.
+    
+
+### **Which companies provide Clouding services?**
+
+The video mentions the following major players :
+- Amazon Web Services (AWS)
+    
+- Microsoft Azure
+    
+- IBM
+    
+- Google
+    
+- Alibaba
+    
+
+### **What are the risks/Challenges?**
+
+- **Internet Dependency:** If the internet goes down, you cannot access your data (e.g., the 2013 AWS outage that took down Instagram and Airbnb).
+    
+- **Security:** Cyber attacks are a risk, especially since a significant portion of cloud files contain sensitive data.
+    
+- **Vendor Lock-in:** It can be difficult to switch between different cloud providers or sync accounts from different companies (like moving between iCloud and Google Drive).
+    
+- **Data Control:** Large companies may have too much power over our data.
+  
+
+6. **Choose a Cloud vendor of your choice and explain to the class how it works.**

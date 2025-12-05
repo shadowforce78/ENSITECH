@@ -180,3 +180,39 @@ Les documents n'abordent pas explicitement les outils de la politique structurel
 
 - **Contraintes de la mondialisation** :  
   Dans un contexte international, les politiques nationales (comme la politique monétaire dans la zone euro) doivent tenir compte des décisions supranationales (BCE) et des interdépendances économiques.
+
+
+# Cas pratique 1 chap 8
+
+**1. Les objectifs des pouvoirs publics (Plan France Très Haut Débit et France 2030)**
+
+Les pouvoirs publics poursuivent un double objectif de modernisation et de couverture numérique du territoire :
+
+- **Pour le Plan France Très Haut Débit (THD) :** Lancé en 2013, son but initial était de couvrir 80 % des foyers en très haut débit d'ici 2022. L'objectif actuel est la généralisation de la fibre optique pour tous les Français d'ici 2025.
+    
+- **Pour le plan France 2030 :** Il vise à compléter le plan THD en améliorant la qualité du réseau mobile (90 % du territoire couvert d'ici 2025), en déployant la 5G sur les axes routiers prioritaires d'ici 2027, et en positionnant la France comme un carrefour ("hub") mondial de l'interconnexion numérique.
+    
+
+**2. Nature structurelle et type de politique mise en œuvre**
+
+- Pourquoi sont-ce des politiques structurelles ?
+    
+    Il s'agit de politiques structurelles car elles visent à transformer l'économie sur le long terme. En investissant dans des infrastructures durables (fibre optique, antennes 5G), l'État cherche à modifier en profondeur les capacités de production et d'échange du pays, favorisant ainsi la croissance future et la compétitivité numérique.
+    
+- Type de politique :
+    
+    C'est une politique d'offre, puisqu'elle consiste a améliorer les conditions de productions et de travails des entreprises française
+
+**3. La limite de l'intervention de l'État en matière d'innovation**
+
+D'après le document 3, la principale limite est **budgétaire**. L'État est soumis à des contraintes financières qui peuvent l'obliger à réduire ses dépenses. Il ne peut pas étre en déficit de plus de 3% du PIB et sa dette inférieure a 60% du PIB 
+Free a pu obtenir un pret de 300M d'€ par la banque europeene d'investissement [...] et favorise ainsi tout investissement ayant cet objectif
+
+**4. L'impact de ces politiques sur les décisions de Free**
+
+Les politiques publiques incitent et soutiennent les stratégies des entreprises privées comme Free :
+
+- **Incitation à l'investissement :** Pour s'aligner sur les objectifs nationaux de couverture, Free a investi massivement dans le déploiement de la 4G, de la 5G (plus de 13 000 antennes) et de la fibre optique.
+    
+- **Soutien financier :** La stratégie de Free est facilitée par les institutions publiques européennes. Le document "Mise en situation" précise que la maison mère de Free a obtenu un **prêt de 300 millions d'euros de la Banque européenne d'investissement (BEI)** pour poursuivre ses travaux sur la 5G.
+    
