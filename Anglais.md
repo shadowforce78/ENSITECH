@@ -376,3 +376,13 @@ The video mentions the following major players :
   
 
 6. **Choose a Cloud vendor of your choice and explain to the class how it works.**
+
+	**Vendor: Google Cloud Platform (GCP)**
+
+	Based on the general cloud principles described in the video, here is how Google's cloud service works for a business or user:
+	
+	1. **Global Infrastructure:** Just like the definition of the cloud in the video, GCP operates as a "global network of servers" located in data centers around the world, acting as one massive hard drive.
+	    
+	2. **On-Demand Resources:** Instead of a company having to buy their own expensive hardware to store data or run applications, they can use Google's servers to store an "unlimited amount of information online".
+	    
+	3. **Scalability & Cost:** GCP likely follows the subscription model mentioned in the video. A business can pay a monthly fee for the services they use and, crucially, can "scale up or down as needed". This means if a business grows, they can instantly use more of Google's computing power without buying new physical equipment.
