@@ -236,3 +236,46 @@ Les politiques publiques incitent et soutiennent les stratégies des entreprises
 
 3) Ces engagement envers le developpement durable aura un impact sur les entreprises proposant des economies sur les energies renouvelables et Solariflex pourra en bénéficier 
 4) Les politiques de demande et d'offre mis en place par la France correspondent au projet de developpement et de croissance verte de l'ASI et ce sont donc des opportunité de developpement pour les entreprises aisni que pour Solariflex, en effet c'est un fort engagement dans cette cooperation en temps que pays pourvoyeur de technologie solaire 
+
+
+
+
+# Cas chapitre 8
+### 1. Qualification juridique des parties, des faits et de l'objet du litige
+
+- **Les parties :**
+    
+    - **Le demandeur :** La société **Free** (opérateur de téléphonie mobile), qui s'estime lésée.
+        
+    - **Le défendeur :** La société **Bouygues Telecom** (opérateur concurrent), accusée de pratiques illicites.
+        
+- **Les faits :** Depuis 2014, Bouygues propose des "offres groupées" (forfait + smartphone avec engagement de 24 mois). Free soutient que ces offres masquent en réalité un crédit à la consommation dont le taux dépasse le seuil légal et que l'absence d'information claire sur le prix réel constitue une pratique trompeuse.
+    
+- **L'objet du litige :** Free demande la reconnaissance de pratiques de **concurrence déloyale** et la réparation du préjudice subi (matériel et moral) résultant du verrouillage du marché par Bouygues.
+    
+
+---
+
+### 2. Évaluation de la prétention du demandeur
+
+Le raisonnement juridique s'appuie sur deux piliers (Doc 1 et 2) :
+
+- **Violation du droit du crédit :** Le tribunal a qualifié l'offre groupée de **crédit**. En ne respectant pas les obligations d'information préalable liées au crédit, Bouygues a commis une faute.
+    
+- **Pratique commerciale trompeuse :** Selon le Code de la consommation, une pratique est trompeuse si elle contient des informations fausses ou omet une "information substantielle" (comme le prix réel) de nature à induire le consommateur en erreur. Ici, le tribunal a jugé que l'absence de clarté sur le prix conférait un **avantage concurrentiel indu** à Bouygues.
+    
+
+**Conclusion :** La prétention de Free est **fondée**, car la faute (pratique déloyale et trompeuse) a causé un préjudice direct à son concurrent en faussant le jeu de la libre concurrence.
+
+---
+
+### 3. Sens du jugement et appréciation critique
+
+- **Le sens du jugement :** Le tribunal de commerce de Paris a condamné Bouygues Telecom à payer **308 millions d'euros** à Free le 9 février 2023. Le tribunal reconnaît la violation des règles du crédit et la pratique commerciale trompeuse.
+    
+- **Appréciation critique :** * **Sévérité :** Le montant de l'indemnisation est historiquement élevé, ce qui souligne la volonté de la justice de sanctionner lourdement les stratégies commerciales qui "verrouillent" le marché au détriment de la transparence.
+    
+    - **Protection du consommateur et du marché :** Ce jugement rappelle que le droit de la consommation (protection du client) et le droit de la concurrence (protection des rivaux) sont liés : une pratique qui trompe le client nuit inévitablement aux concurrents honnêtes.
+        
+    - **Affaire à suivre :** Bouygues a fait **appel**, ce qui signifie que la décision n'est pas encore définitive.
+        
