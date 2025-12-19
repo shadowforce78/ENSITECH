@@ -208,11 +208,31 @@ Les pouvoirs publics poursuivent un double objectif de modernisation et de couve
 D'après le document 3, la principale limite est **budgétaire**. L'État est soumis à des contraintes financières qui peuvent l'obliger à réduire ses dépenses. Il ne peut pas étre en déficit de plus de 3% du PIB et sa dette inférieure a 60% du PIB 
 Free a pu obtenir un pret de 300M d'€ par la banque europeene d'investissement [...] et favorise ainsi tout investissement ayant cet objectif
 
-**4. L'impact de ces politiques sur les décisions de Free**
+**4. L'impact de ces politiques sur les   de Free**
 
 Les politiques publiques incitent et soutiennent les stratégies des entreprises privées comme Free :
 
 - **Incitation à l'investissement :** Pour s'aligner sur les objectifs nationaux de couverture, Free a investi massivement dans le déploiement de la 4G, de la 5G (plus de 13 000 antennes) et de la fibre optique.
     
 - **Soutien financier :** La stratégie de Free est facilitée par les institutions publiques européennes. Le document "Mise en situation" précise que la maison mère de Free a obtenu un **prêt de 300 millions d'euros de la Banque européenne d'investissement (BEI)** pour poursuivre ses travaux sur la 5G.
-    
+
+
+
+# Correction interro Chap 7
+
+## Partie 1
+
+1) Solariflex est une entreprise française créée en 2006 et rachetée en 2008 par Greentec, proppose des produits permettant d'alimenter n'importe quel appareil lui meme sans le relier a un reseau electrique
+2) - CITE => Avantage fiscale accordé au ménage propriétaire et locataire en contre partie de la realisation de travail de renovation energetique => Politique de la demande
+	1) Augmentation du pouvoir d'achat des menages
+	2) Augmentation de la demande envers les entreprises de renovation
+	3) Augmentation d'NRT
+	4) Augmentation de l'activité économique a cours terme
+	5) Impact a long terme car politique de l'environnement 
+	- CIR => Avantage fiscal pour les entreprises qui engagent des dépenses de R&D => Politique de l'offre
+	1) Baisse des couts pour les entreprises concernés 
+	2) Augmentation d'investissement immateriel 
+	3) Impact a long terme grace a l'innovation 
+
+3) Ces engagement envers le developpement durable aura un impact sur les entreprises proposant des economies sur les energies renouvelables et Solariflex pourra en bénéficier 
+4) Les politiques de demande et d'offre mis en place par la France correspondent au projet de developpement et de croissance verte de l'ASI et ce sont donc des opportunité de developpement pour les entreprises aisni que pour Solariflex, en effet c'est un fort engagement dans cette cooperation en temps que pays pourvoyeur de technologie solaire 
