@@ -240,7 +240,7 @@ Les politiques publiques incitent et soutiennent les stratégies des entreprises
 
 
 
-# Cas chapitre 8
+# Cas chapitre 8 (1)
 ### 1. Qualification juridique des parties, des faits et de l'objet du litige
 
 - **Les parties :**
@@ -278,4 +278,67 @@ Le raisonnement juridique s'appuie sur deux piliers (Doc 1 et 2) :
     - **Protection du consommateur et du marché :** Ce jugement rappelle que le droit de la consommation (protection du client) et le droit de la concurrence (protection des rivaux) sont liés : une pratique qui trompe le client nuit inévitablement aux concurrents honnêtes.
         
     - **Affaire à suivre :** Bouygues a fait **appel**, ce qui signifie que la décision n'est pas encore définitive.
-        
+
+
+## Cas pratique chap 8 (2)
+### Les conditions d’existence du parasitisme
+
+#### 1. Identifiez les deux juridictions à l’origine des deux décisions rapportées ci-dessous.
+
+- **Document 1** : Cour d'appel de Paris (novembre 2023, n° 21/19126)
+- **Document 2** : Cour de cassation (arrêt du 26 juin 2024)
+
+---
+
+#### 2. Dans chacune des affaires, qualifiez juridiquement les faits à l’origine du litige et les parties.
+
+##### Document 1 – Affaire Celine vs. Mango
+- **Faits à l'origine du litige** : Mango a commercialisé plusieurs produits (lunettes, bijoux, sacs, accessoires) dont les caractéristiques étaient très proches, voire reprises, sur des produits phares de la marque Celine. Ces reprises étaient répétées et concernaient des produits lancés peu après ceux de Celine.
+- **Parties** :
+  - Demanderesse (victime présumée) : Société Celine
+  - Défenderesse (auteur présumé) : Société Mango (et Punto Fa, Mango France)
+
+##### Document 2 – Affaire Maisons du monde vs. Auchan
+- **Faits à l'origine du litige** : Auchan a commercialisé des tasses et bols avec des dessins de style « vintage », que Maisons du monde estimait reproduire un décor créé par elle en 2010 (« Pub 50’s ») et commercialisé sous forme de tableau.
+- **Parties** :
+  - Demanderesse (victime présumée) : Société Maisons du monde France
+  - Défenderesses (auteurs présumés) : Sociétés Auchan e-commerce France, Auchan Hypermarché, et Kitchen Accessories Tables et Surprises (KATS)
+
+---
+
+#### 3. Exposez le raisonnement juridique qui justifie la divergence de solutions dans ces deux affaires.
+
+Le parasitisme économique est une faute (article 1240 du Code civil) qui consiste à profiter indûment des efforts, du savoir-faire ou de la notoriété d’un autre opérateur économique. Pour être reconnu, il faut prouver l’existence d’une **valeur économique individualisée** chez la victime.
+
+- **Dans l’affaire Celine vs. Mango (condamnation)** :
+  - La cour d'appel de Paris a considéré que les produits de Celine étaient des **produits phares**, bénéficiant d’une **notoriété** et constituant des **valeurs économiques individualisées**.
+  - Les reprises par Mango étaient **répétées**, systématiques, intervenaient peu après le lancement des modèles de Celine, et créaient un **effet de gamme**.
+  - Ces éléments ont permis de conclure à une stratégie délibérée de parasitisme.
+
+- **Dans l’affaire Maisons du monde vs. Auchan (rejet de la demande)** :
+  - La Cour de cassation a estimé que Maisons du monde n’avait pas créé une **valeur économique identifiée et individualisée** avec sa toile « Pub 50’s ».
+  - Le simple fait de reprendre un **concept** (ici, un style vintage) ne suffit pas à caractériser le parasitisme, en l’absence de preuve d’une valeur économique propre et individualisée exploitée par le concurrent.
+  - Sans cette preuve, le parasitisme n’est pas retenu.
+
+**Conclusion** :  
+La divergence s’explique par la **preuve (ou l’absence de preuve) d’une valeur économique individualisée**. Celine a démontré que ses produits avaient une notoriété et une valeur économique propre, exploitée par Mango. Maisons du monde n’a pas apporté cette preuve concernant son concept « Pub 50’s ».
+
+
+
+
+## Exo supp chap 8
+# Syllogisme
+
+**Fait**  
+Depuis janvier 2018, le groupe TF1 a procédé à un repositionnement de ses chaînes (HDI devient TF1 Séries Films et NT1 devient TFX). Ce groupe, leader de la télévision privée en clair en France, réalise une part d’audience cumulée de 32,7 % sur la cible des Femmes de moins de 50 ans responsables des achats et de 27 % sur les Individus de 4 ans et plus. Il détenait en 2016 41,6 % des parts de marché brut de la publicité télévisée. La maison-mère poursuit une campagne de publicité croisée entre ses chaînes.
+
+**Problème de droit**  
+La poursuite de cette campagne de publicité croisée après la réorganisation des chaînes constitue-t-elle un abus de position dominante sur le marché de la publicité télévisée en France ?
+
+**Règle de droit**  
+- Au regard du droit français et du droit de l’Union européenne, l’exploitation abusive d’une position dominante est prohibée (art. L. 420-2 du Code de commerce et art. 102 du TFUE). 
+- L’abus peut notamment consister en des conditions discriminatoires ou des pratiques visant à évincer la concurrence. 
+- Cependant, la promotion croisée purement informative des programmes entre chaînes d’un même groupe, si elle n’est pas discriminatoire et n’a pas pour effet d’évincer la concurrence, n’est pas considérée comme un abus (décision de l’Autorité de la concurrence du 25 juillet 2017, confirmée en 2019).
+
+**Solution**  
+En l’espèce, la situation du groupe TF1 n’a pas fondamentalement changé depuis la décision de 2017. La réorganisation des chaînes ne modifie pas la nature de la pratique de publicité croisée, laquelle a déjà été jugée non abusive par l’Autorité de la concurrence, car non discriminatoire et sans effet d’éviction sur la concurrence. Dès lors, la campagne de publicité croisée au sein des chaînes du groupe TF1, même après la réorganisation de 2018, ne constitue pas un abus de position dominante sur le marché de la publicité télévisée en France.
