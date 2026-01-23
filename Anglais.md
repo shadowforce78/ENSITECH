@@ -492,3 +492,20 @@ In a host company, APIs are relevant for connecting internal tools (ERP, CRM, da
 
 **Open debate: ethical and societal implications**  
 APIs raise issues related to data privacy, security, and dependency on large technology providers. Poorly secured APIs can expose sensitive personal or business data. There is also a risk of vendor lock-in and unequal access to digital ecosystems. Governments may need to implement regulations to ensure data protection, transparency, and fair competition, but without stifling innovation. Europe is relatively advanced in regulation (e.g., GDPR) compared to some regions, but can be seen as behind the US or Asia in large-scale platform development. However, Europe’s strong focus on ethics, privacy, and standardization could become a long-term advantage in building trusted digital services.
+
+
+
+
+
+MISE EN SITUATION 
+You are an IT Technician. Your company wants to comply with current sustainable development standards. The managing director has asked you and your team for advice and solutions. 
+
+QUESTIONNEMENT 
+	-Why should green computing be a priority for companies? 
+	- How can a company embrace green computing and improve its practices?
+		- Green Computing Strategy Overview
+			- To meet sustainable development standards, we should focus on these four key areas:
+			- **Sustainable Hardware:** Prioritize **Energy Star** or **EPEAT** certified purchases, extend the lifespan of current devices through upgrades, and ensure certified **e-waste recycling**.
+			- **Infrastructure Efficiency:** Implement **Virtualization** to reduce the number of physical servers needed and move suitable workloads to the **Cloud** to leverage energy-efficient data centers.
+			- **Power Management:** Use network tools to enforce **automatic sleep modes** on computers and monitors after inactivity, cutting "vampire power" consumption.
+			- **Reduced Waste:** Enforce **double-sided printing** defaults and promote digital workflows (paperless office) to minimize consumable waste.
