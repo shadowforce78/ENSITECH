@@ -503,9 +503,16 @@ You are an IT Technician. Your company wants to comply with current sustainable 
 QUESTIONNEMENT 
 	-Why should green computing be a priority for companies? 
 	- How can a company embrace green computing and improve its practices?
-		- Green Computing Strategy Overview
-			- To meet sustainable development standards, we should focus on these four key areas:
-			- **Sustainable Hardware:** Prioritize **Energy Star** or **EPEAT** certified purchases, extend the lifespan of current devices through upgrades, and ensure certified **e-waste recycling**.
-			- **Infrastructure Efficiency:** Implement **Virtualization** to reduce the number of physical servers needed and move suitable workloads to the **Cloud** to leverage energy-efficient data centers.
-			- **Power Management:** Use network tools to enforce **automatic sleep modes** on computers and monitors after inactivity, cutting "vampire power" consumption.
-			- **Reduced Waste:** Enforce **double-sided printing** defaults and promote digital workflows (paperless office) to minimize consumable waste.
+		- 1. Green Design & Manufacturing
+			We must choose equipment designed for energy efficiency and minimal environmental impact.
+			- **Eco-friendly Components:** Select computers, servers, and cooling equipment designed to be energy-efficient and environmentally sound.			    
+			- **Responsible Manufacturing:** Prioritize hardware manufactured with minimal impact on the environment. 
+		- 2. Green Use 
+			How we use our technology offers the biggest opportunity for immediate improvement. 
+			- **Switch to Laptops:** Replacing desktops with portable devices can significantly cut our carbon footprint, as laptops consume up to **80% less power** than desktop power supplies. 
+			- **Utilize the Cloud:** Moving to cloud-based software reduces the local storage required on devices, which in turn reduces the power needed to run them. 
+			- **Maintenance & Efficiency:** Old PCs are less efficient due to outdated parts, insufficient memory, and dust accumulation that causes overheating. Older devices must work harder to run modern software, wasting energy. 
+		-  3. Lifecycle Management (Green Disposal)
+			We need a strategic approach to equipment life cycles and waste. 
+			- **Regular Upgrades:** Contrary to the "keep it until it breaks" mentality, upgrading equipment every **4 years** can actually lower our carbon footprint. Newer devices are more efficient, while 5-year-old equipment struggles to handle new software, using more energy to do so. 
+			- **Refurbish and Recycle:** We must ensure the proper recycling of unwanted electronics and aim to refurbish or reuse old computers whenever possible.
