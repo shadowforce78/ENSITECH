@@ -47,3 +47,13 @@ Abonnee(<u>id_abo</u>, nom_abo, prenom_abo, age_abo, num_rue, nom_rue, code_post
 Newsletter(<u>id_news</u>, sujet, date_envoi, contenu)
 Rubrique(<u>id_rub</u>, nom_rub)
 Inscrit( #id_abo, #id_rub)
+
+
+![[Pasted image 20260205145022.png]]
+
+Service(<u>nom_service</u>, specialite, localisation)
+Medecin(<u>nom_medecin</u>, prenom_medecin)
+Patient(<u>numero_patient</u>, nom_patient, prenom_patient, adresse_patient)
+Visite(<u>date_visite</u>)
+Prescription(<u>id_prescription</u>, posologie)
+Appartenir( #nom_service, #nom_medecin)
