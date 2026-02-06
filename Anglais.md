@@ -516,3 +516,6 @@ QUESTIONNEMENT
 			We need a strategic approach to equipment life cycles and waste. 
 			- **Regular Upgrades:** Contrary to the "keep it until it breaks" mentality, upgrading equipment every **4 years** can actually lower our carbon footprint. Newer devices are more efficient, while 5-year-old equipment struggles to handle new software, using more energy to do so. 
 			- **Refurbish and Recycle:** We must ensure the proper recycling of unwanted electronics and aim to refurbish or reuse old computers whenever possible.
+
+
+
