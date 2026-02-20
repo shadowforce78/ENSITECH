@@ -475,3 +475,21 @@ Duralex s'inscrit dans cette démarche à travers ses trois piliers (économique
 - **Social :** L'entreprise cherche à maintenir l'emploi local (250 salariés) et le savoir-faire en France ("Origine France Garantie"). Le fait que les salariés aient "racheté leur entreprise" (Doc. 2) montre un engagement social fort.
     
 - **Économique :** La production est maintenue en france "Origine France Garantie" et l'entreprise cherche a optimiser ses productions pour eviter la faillite
+
+
+# CAS 2 CHAP 10
+
+1) Avant la pandémie, les usines de production de médicament (Paracétamol, insuline...) on étés délocaliser en Asie afin de réduire drastiquement les couts de production
+2) En ayant délocaliser les productions les délais d'envoie ont donc été augmenté et les médicaments ne sont pas arrivé a temps pour le debut de la pandémie 
+
+
+
+
+
+# CAS CHAP 11
+
+1. Duralex est qualifiée juridiquement de Société Coopérative de Production (Scop).
+    
+2. Ce statut a été choisi car l'entreprise était en redressement judiciaire. La reprise de la société par les salariés sous forme de Scop a été la solution validée par le tribunal de commerce pour sauver la totalité des emplois de l'entreprise.
+    
+3. Les avantages de cette structure sont la gestion démocratique (chaque salarié compte pour une voix dans les décisions), la répartition équitable des bénéfices (entre les salariés, les associés et les réserves de l'entreprise) et une meilleure solidité économique (un taux de pérennité à 5 ans de 79 %, supérieur à la moyenne des entreprises françaises).
