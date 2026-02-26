@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Anglais"
             }
+          },
+          {
+            "id": "e1711d0dd479b768",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "TP Raid.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "TP Raid"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,10 +194,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aa9fef9bf31a6b8c",
+  "active": "e1711d0dd479b768",
   "lastOpenFiles": [
-    "CEJM-Eco.md",
+    "TP Raid.md",
+    "TP Raid.pdf",
     "Anglais.md",
+    "CEJM-Eco.md",
     "Cas duralex.md",
     "Pestel LV.md",
     "README.md",
@@ -204,7 +219,6 @@
     "Anglais/BTS_SIO_E2_Anglais_10_Textes.docx.fdmdownload",
     "CEJM-Droit.md",
     "CEJM/CEJM 1ère ANNEE 2025-2026/EXO SUPPLEM CHAP 8 1ère Année.docx",
-    "CEJM/CEJM 1ère ANNEE 2025-2026/EXO SUPPLEM CHAP 8 1ère Année.docx.fdmdownload",
     "Excalidraw/Drawing 2025-11-28 12.23.19.excalidraw.md",
     "Excalidraw/Drawing 2025-11-28 11.33.59.excalidraw.md",
     "Excalidraw/Drawing 2025-11-28 12.05.06.excalidraw.md",
