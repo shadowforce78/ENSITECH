@@ -22,15 +22,17 @@
             }
           },
           {
-            "id": "e1711d0dd479b768",
+            "id": "54b1a0564e4a4bb4",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "TP Raid.pdf"
+                "file": "Cover Letter Mobile App Development Internship.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "TP Raid"
+              "icon": "lucide-file",
+              "title": "Cover Letter Mobile App Development Internship"
             }
           }
         ],
@@ -194,12 +196,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e1711d0dd479b768",
+  "active": "54b1a0564e4a4bb4",
   "lastOpenFiles": [
+    "Anglais/74_Cover-Letter_US.pdf",
+    "Anglais/74_Cover-Letter_US.pdf.fdmdownload",
+    "Anglais.md",
+    "Cover Letter Mobile App Development Internship.md",
+    "CEJM-Eco.md",
+    "CEJM-Droit.md",
     "TP Raid.md",
     "TP Raid.pdf",
-    "Anglais.md",
-    "CEJM-Eco.md",
     "Cas duralex.md",
     "Pestel LV.md",
     "README.md",
@@ -217,8 +223,6 @@
     "Dev/Mission.md",
     "Anglais/BTS_SIO_E2_Anglais_10_Textes.docx",
     "Anglais/BTS_SIO_E2_Anglais_10_Textes.docx.fdmdownload",
-    "CEJM-Droit.md",
-    "CEJM/CEJM 1ère ANNEE 2025-2026/EXO SUPPLEM CHAP 8 1ère Année.docx",
     "Excalidraw/Drawing 2025-11-28 12.23.19.excalidraw.md",
     "Excalidraw/Drawing 2025-11-28 11.33.59.excalidraw.md",
     "Excalidraw/Drawing 2025-11-28 12.05.06.excalidraw.md",
