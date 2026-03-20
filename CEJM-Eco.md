@@ -493,3 +493,15 @@ Duralex s'inscrit dans cette démarche à travers ses trois piliers (économique
 2. Ce statut a été choisi car l'entreprise était en redressement judiciaire. La reprise de la société par les salariés sous forme de Scop a été la solution validée par le tribunal de commerce pour sauver la totalité des emplois de l'entreprise.
     
 3. Les avantages de cette structure sont la gestion démocratique (chaque salarié compte pour une voix dans les décisions), la répartition équitable des bénéfices (entre les salariés, les associés et les réserves de l'entreprise) et une meilleure solidité économique (un taux de pérennité à 5 ans de 79 %, supérieur à la moyenne des entreprises françaises).
+
+
+
+# CAS CHAPITRE 12
+
+1. Responsabilité civile contractuelle
+	1. Duralex est liée par un contrat avec ses salariés. Elle doit assurer leur sécurité au travail. Dans le document, le système de refroidissement ne fonctionne plus et l’équipement surchauffe. Cela montre un manquement à l’obligation de sécurité. Les salariés ont dû être évacués, ce qui prouve un risque réel.
+	2. Si un salarié avait été blessé, Duralex aurait engagé sa responsabilité civile contractuelle pour faute dans l’exécution du contrat.
+
+2. Responsabilité civile extracontractuelle
+	1. La responsabilité extracontractuelle concerne les personnes extérieures à l’entreprise, comme les riverains. Ici, l’incident technique pouvait provoquer des émanations dangereuses hors de l’usine (dommages ecologiques). Cela représente un risque pour la population.
+	2. Si des riverains subissent un dommage à cause de cet incident, Duralex pourra être tenue responsable pour faute, même sans contrat avec eux.
