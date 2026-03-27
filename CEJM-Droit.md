@@ -94,6 +94,4 @@ Dans le cas présent, Marouane a acheté des manettes neuves qui dysfonctionnent
 
 Comme le défaut est apparu bien avant le délai de 2 ans, il est présumé exister au moment de la livraison. Marouane n'a pas à prouver l'origine du problème. Le vendeur professionnel est donc légalement tenu de mettre en œuvre la garantie.
 
-
 En l'espèce Marouane est en droit d'exiger du vendeur la réparation ou le remplacement des manettes sans frais. Si le vendeur refuse, il manque à ses obligations légales de garantie de conformité. Marouane peut lui imposer de choisir entre la réparation ou le remplacement (sauf si l'une des options présente un coût manifestement disproportionné pour le vendeur).
-^
