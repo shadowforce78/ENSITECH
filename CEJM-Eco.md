@@ -508,4 +508,19 @@ Duralex s'inscrit dans cette démarche à travers ses trois piliers (économique
 
 
 
-# Syllogisme 
+# Chapitre 13 Management
+
+
+- Style Autoritaire 
+	- Ordre
+	- Controle
+	- Sanction
+- Style Paternaliste 
+	- Bienveillance
+	- Confiance
+	- Ordre
+- Style Consultatif
+	- Consulation des salariés
+	- Demande avis mais il décide
+- Style Participatif
+	- Les salariés participe a la prise de décision 
