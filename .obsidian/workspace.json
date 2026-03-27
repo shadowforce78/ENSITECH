@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5d9ea16f0238d6ac",
+            "id": "4d055f4b52bfd68d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CEJM-Eco.md",
+                "file": "Anglais.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CEJM-Eco"
+              "title": "Anglais"
             }
           }
         ]
@@ -181,7 +181,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5d9ea16f0238d6ac",
+  "active": "4d055f4b52bfd68d",
   "lastOpenFiles": [
     "CEJM-Droit.md",
     "CEJM/CEJM 1ère ANNEE 2025-2026/lu13590ztn1.tmp",

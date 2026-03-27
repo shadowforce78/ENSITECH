@@ -519,3 +519,38 @@ QUESTIONNEMENT
 
 
 
+
+
+### **Comprehension Questions: AI and Cybersecurity**
+
+#### **Basic Understanding**
+
+- **Main Idea:** The video explains that we are in a "once in a generation shift" where AI has moved from a futuristic concept to a practical tool used by both sides of the cybersecurity landscape. It emphasizes that while AI makes attacks faster and more sophisticated, it also provides defenders with "augmented intelligence" to fight back, provided they adapt to these new tools.
+    
+- **Who is using AI today?** According to the speaker, Derek A. Smith, AI is currently being used by **both defenders (security professionals) and attackers (cybercriminals)**.
+    
+
+#### **Details**
+	
+- **Examples of AI used by attackers:**
+    
+    1. **Automated Phishing & Malware:** Attackers use specialized, unfiltered LLMs like _Worm GPT_ to write professional-sounding phishing emails, create malicious code, and script social engineering scams in minutes.
+        
+    2. **Deepfake Impersonation:** Criminals use AI to replicate the voice and facial expressions of executives (like a CEO) in video calls to trick employees into authorized massive wire transfers.
+        
+- **How AI helps professionals detect threats faster:** AI tools can analyze thousands of lines of logs in seconds. Instead of a human manually digging through JSON data, an AI assistant can summarize the activity in natural language, identify specific compromised machines, and recommend immediate isolation of the affected network.
+    
+
+#### **Vocabulary & Concepts**
+
+- **Deepfake / AI-generated Phishing:** In this context, a **deepfake** is an AI-created video or audio clip used to impersonate a trusted individual. An **AI-generated phishing attack** refers to using AI to craft highly personalized, error-free messages that mimic a specific person's tone to bypass human suspicion and traditional security filters.
+    
+- **Role of GPT/AI Assistants:** These tools serve as "threat hunting assistants" or "co-pilots." They handle repetitive, rule-based tasks—such as log correlation and basic incident response scripting—allowing human analysts to focus on high-level strategy and intuition.
+    
+
+#### **Analysis**
+
+- **Opportunity vs. Danger:** The speaker views AI as a **danger** because it lowers the barrier to entry for criminals, allowing them to scale complex attacks with very little effort. However, it is an **opportunity** because it solves "alert fatigue" for defenders. It allows a new class of cybersecurity professionals to emerge: those who can govern AI risks and manage AI-driven security operations, making them more valuable and less replaceable than those performing manual, repetitive tasks.
+    
+
+**Video Link:** [https://www.youtube.com/watch?v=0-BMiUKQh5o](https://www.youtube.com/watch?v=0-BMiUKQh5o)
