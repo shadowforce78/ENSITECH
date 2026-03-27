@@ -68,3 +68,32 @@
 	
 ### Solution
 	En l'espèce la clause resolutoire n'est prevue que pour une partie (le prestataire) et pas pour les manquements du client. Donc cette clause 15 est une clause abusive qui créé un déséquilibre significatif entre les droits et les obligations pesant sur le prestataire et les droits et obligations de la société Parrot, cette clause est donc nulle et donc réputée non écrite.
+
+
+
+
+# Syllogisme Chap12
+
+**1. FAITS**
+
+Marouane a acquis auprès d'un vendeur professionnel une console de jeux vidéo et des manettes sans fil neuves. Moins de six mois après l'achat, les manettes présentent des dysfonctionnements aléatoires les rendant pratiquement inutilisables. Le vendeur ne propose pas de solution a Marouane.
+
+**2. PROBLÈME DE DROIT**
+
+Que peut faire un acheteur lorsqu'un produit neuf acheté auprès d'un professionnel présente un défaut de fonctionnement peu de temps après la livraison ?
+
+**3. RÈGLE DE DROIT**
+
+- Selon l'article L.217-4 et suivants du Code de la consommation (Document 2), le vendeur est tenu de livrer un bien conforme au contrat et répond des défauts de conformité existant lors de la délivrance.
+
+- La garantie légale de conformité s'applique aux biens matériels neufs pour une durée de 2 ans. ici on par du principe que le défaut est présumé exister au moment de l'achat s'il apparaît dans un certain délai. L'acheteur n'a donc pas à apporter la preuve de la date d'apparition du défaut ; c'est au vendeur de prouver le contraire s'il conteste.
+
+**4. SOLUTION**
+
+Dans le cas présent, Marouane a acheté des manettes neuves qui dysfonctionnent après quelques temps  (moins de 6 mois). Ce défaut de fonctionnement constitue un défaut de conformité au sens du Code de la consommation.
+
+Comme le défaut est apparu bien avant le délai de 2 ans, il est présumé exister au moment de la livraison. Marouane n'a pas à prouver l'origine du problème. Le vendeur professionnel est donc légalement tenu de mettre en œuvre la garantie.
+
+
+En l'espèce Marouane est en droit d'exiger du vendeur la réparation ou le remplacement des manettes sans frais. Si le vendeur refuse, il manque à ses obligations légales de garantie de conformité. Marouane peut lui imposer de choisir entre la réparation ou le remplacement (sauf si l'une des options présente un coût manifestement disproportionné pour le vendeur).
+^

@@ -505,3 +505,7 @@ Duralex s'inscrit dans cette démarche à travers ses trois piliers (économique
 2. Responsabilité civile extracontractuelle
 	1. La responsabilité extracontractuelle concerne les personnes extérieures à l’entreprise, comme les riverains. Ici, l’incident technique pouvait provoquer des émanations dangereuses hors de l’usine (dommages ecologiques). Cela représente un risque pour la population.
 	2. Si des riverains subissent un dommage à cause de cet incident, Duralex pourra être tenue responsable pour faute, même sans contrat avec eux.
+
+
+
+# Syllogisme 
