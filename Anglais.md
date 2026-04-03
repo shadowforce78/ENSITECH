@@ -554,3 +554,43 @@ QUESTIONNEMENT
     
 
 **Video Link:** [https://www.youtube.com/watch?v=0-BMiUKQh5o](https://www.youtube.com/watch?v=0-BMiUKQh5o)
+
+
+
+# ORAL IT PRESENTATION
+---
+
+## PART 1 – RESEARCH
+
+**Topic:** OpenClaw: The Rise of Autonomous Open-Source AI Agents. **Sources:**
+
+1. _Wikipedia (April 2026):_ "OpenClaw: History, Architecture, and Global Adoption."
+    
+2. _PCMAG (Feb 2026):_ "OpenClaw Is the Hot New AI Agent, But Is It Safe to Use?"
+    
+
+---
+
+## PART 2 – WRITTEN REPORT
+
+**Title:** OpenClaw: Why 2026 is the Year of the AI Agent **Word Count:** ~264 words
+
+### Introduction
+
+In early 2026, a project called **OpenClaw** (formerly Clawdbot) became the fastest-growing open-source software in history, reaching 300,000 GitHub stars in record time. It is important today because it shifts AI from a "chatbot" you talk to, into an "agent" that actually executes tasks across your professional and personal apps.
+
+### Explanation of the Topic
+
+OpenClaw is a self-hosted, autonomous AI agent. Unlike ChatGPT, which lives in a browser, OpenClaw runs on your own hardware and connects to messaging platforms like **WhatsApp, Telegram, or Slack**. It uses "skills" to interact with the real world—it can read your emails, code scripts, or even manage your calendar without you needing to give it step-by-step instructions.
+
+### Current Developments (2026)
+
+As of April 2026, the ecosystem is exploding. **NVIDIA** recently launched "NemoClaw" to optimize these agents on local GPUs, and **Tencent** integrated OpenClaw into WeChat for millions of users. However, it hasn't been without drama: the project had to change its name twice due to trademark disputes with Anthropic (the creators of Claude).
+
+### Business Impact
+
+The **advantages** for businesses are massive: automation of lead generation, customer support, and "self-healing" servers that fix their own bugs. However, the **risks** are equally significant. Security researchers have found vulnerabilities (like CVE-2026-27001) where hackers can "hijack" an agent to steal local files or execute malicious code.
+
+### Conclusion
+
+In my opinion, OpenClaw is the "Linux of AI." It gives power back to users by keeping data local and private. In the future, I believe every professional will have a personalized OpenClaw agent acting as a digital twin to handle boring administrative tasks.

@@ -524,3 +524,74 @@ Duralex s'inscrit dans cette démarche à travers ses trois piliers (économique
 	- Demande avis mais il décide
 - Style Participatif
 	- Les salariés participe a la prise de décision 
+
+
+
+# CAS CHAPITRE 13 DURALEX
+
+1) Le style de management adopté est un **management consultatif**.
+	- **Identification :** Les salariés ne sont plus de simples exécutants, ils deviennent des **salariés-associés**.
+	    
+	- **Caractérisation :** Ce style se traduit par une implication directe des salariés dans la vie de l'entreprise. Ils sont présents au **conseil d'administration**, consultés sur les décisions importantes et valident les grandes orientations, les investissements ainsi que les budgets prévisionnels. Le document mentionne une "vie démocratique" au sein de l'entreprise.
+	    
+2) Les enjeux (défis et objectifs) cités dans le document 1 sont :
+	- **Maintenir la distinction des rôles :** Éviter que les rôles ne deviennent "flous" entre la participation démocratique des salariés et le pouvoir de décision final qui reste à la direction.
+	    
+	- **Gérer l'exigence accrue :** Les salariés-associés deviennent plus exigeants envers eux-mêmes et leurs collègues, ce qui peut créer des tensions sociales.
+	    
+	- **Garantir l'équité :** Veiller à l'égalité de traitement entre les salariés actionnaires et les non-actionnaires pour éviter toute discrimination.
+	    
+	- **Changer la culture de travail :** Passer d'une obéissance classique à une validation collective des budgets et des embauches.
+    
+3) 
+
+| **Parties Prenantes**                                                                     | **Intérêts respectifs**                                                                                      |
+| ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| **Les Salariés (60% associés)**                                                           | Sauvegarder leurs emplois (226 postes) et participer aux décisions et aux bénéfices.                         |
+| **La Direction (DG et DRH)**                                                              | Assurer la pérennité de l'entreprise et maintenir l'activité sur le territoire français.                     |
+| **Les Collectivités locales (Région, Métropole)**                                         | Maintenir l'activité industrielle sur le territoire et éviter une délocalisation.                            |
+| **L'État et organismes publics**                                                          | Garantir la stabilité économique (garantie bancaire de 3 millions d'euros) et soutenir le modèle coopératif. |
+| **Les Banques et financeurs (Crédit Agricole, Caisse d'Épargne, France Active, Socoden)** | Assurer le financement du projet industriel et sécuriser leurs investissements.                              |
+| **Le Tribunal de commerce**                                                               | Choisir l'offre la plus solide socialement et économiquement pour l'entreprise.                              |
+
+4) 
+	- **Enjeux économiques :** * Assurer une **croissance de 30 % d'ici 2026**.
+	    
+	    - Pérenniser la marque en France et interdire la délocalisation pour les 30 à 40 prochaines années.
+	        
+	    - Passer d'une situation de faillite à un modèle de production durable et rentable.
+	        
+	- **Enjeux sociaux :** Sauvegarder 226 emplois qui auraient pu être supprimés par d'autres repreneurs.
+	    
+	    - Instaurer une démocratie d'entreprise où le salarié est au cœur du projet.
+	        
+	    - Maintenir la cohésion sociale malgré les changements de gouvernance.
+	        
+	- **Enjeux environnementaux :**  Promouvoir la **production « made in France »** pour garantir un **faible bilan carbone** (réduction des transports).
+	    
+	    - Répondre aux attentes des clients en matière de respect de l'environnement grâce à la **durabilité** des produits (verre incassable, donc moins de déchets).
+
+
+
+
+# CAS CHAPITRE 13 LDLC
+
+1) Le style de management adopté par LDLC est un style participatif, leur but est de renouer le contact entre les salariés et dirigeants pour le bien être
+2) Ce style se caractérise par :
+	1) L'autonomie des salariés
+	2) La confiance et transparence, remise du contact direct entre la direction et ses équipes
+	3) Le bien être des collaborateurs
+	4) Suppression du comités exécutif et d'autre hiérarchies
+3) Les actions : 
+	1) Passage a la semaine de 32h sur 4 jours sans baisses de salaire ou embauches suplémentaires
+	2) Création de role de "facilitateurs" pour les travaux des groupes
+	3) Suppresssion hierarchiques
+	4) Amélioration du cadre de vie (bien être des salariés)
+	5) Formation des managers pour des nouvelles postures moins directives
+4) Engagement RSE
+	1) Social :
+		1) Amélioration des conditions de travails, semaine de 4 jours, égalité homme-femme renforcée, baisse de l'absentéisme.
+	2) Environnemental :
+		1) Extension de garantie à 5ans pour lutter contre l'obsolescence.
+	3) Economique :
+		1) Stratégie rentable car malgrès la réduction du temps de travail les resultats economique on augmenté.
