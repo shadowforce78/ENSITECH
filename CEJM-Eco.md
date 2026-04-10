@@ -595,3 +595,64 @@ Duralex s'inscrit dans cette démarche à travers ses trois piliers (économique
 		1) Extension de garantie à 5ans pour lutter contre l'obsolescence.
 	3) Economique :
 		1) Stratégie rentable car malgrès la réduction du temps de travail les resultats economique on augmenté.
+
+
+
+# CAS CHAPITRE 14 DURALEX
+
+1. Les ressources et les competences de la Scop Duralex
+    
+	Ressources tangibles :
+	
+	- Physiques : Unite de production de 14 hectares, machines industrielles, stocks de produits finis.
+	    
+	- Humaines : 226 salaries-associes possedant un savoir-faire technique specifique.
+	    
+	- Financieres : Apports en capital des salaries, prets bancaires et aides publiques.
+	    
+	
+	Ressources intangibles :
+	
+	- Mercatiques : Marque de notoriete mondiale, image de marque forte liee au Made in France.
+	    
+	- Juridiques : Brevets et label Entreprise du Patrimoine Vivant.
+	    
+	
+	Competences :
+	
+	- Savoir-faire industriel historique dans le verre trempe.
+	    
+	- Capacite d innovation produit (350 references).
+    
+
+2. Les ressources ayant permis le redressement
+    
+	Le redressement repose sur une strategie de financement hybride :
+	
+	- Le rachat de l actif immobilier par la Metropole d Orleans (5,8 millions d euros) apporte des liquidites immediates.
+	    
+	- Le financement externe : Prets de la Region (1 million d euros) et credits bancaires (1,5 million d euros).
+	    
+	- Le financement interne : Apports en capital des salaries-associes (souscription de parts sociales).
+    
+
+3. Les mecanismes de coordination au sein de la Scop
+    
+	On retrouve les mecanismes de coordination selon Mintzberg et les principes de la gouvernance participative :
+	
+	- La democratie directe : Election des dirigeants par l Assemblee Generale selon le principe 1 personne = 1 voix.
+	    
+	- L ajustement mutuel : Communication entre les 16 volontaires du conseil d administration temporaire issus de differents services.
+	    
+	- La decentralisation du pouvoir : Gouvernance partagee ou le pouvoir n est plus detenu par un actionnaire unique mais par les salaries-societaires.
+    
+
+4. Maintien de la solidarite par ces mecanismes
+    
+	Les mecanismes de coordination choisis favorisent la cohesion sociale et la culture d entreprise :
+	
+	- Implication : Le statut de salarie-associe transforme le lien de subordination classique en un engagement entrepreneurial.
+	    
+	- Transparence : La diffusion de l information financiere et la gestion democratique limitent les asymetries d information et les conflits.
+	    
+	- Equite : Le partage du profit (ristournes de la Scop) et la responsabilite partagee soudent les equipes autour d un projet commun de survie de l outil industriel.
