@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e5c252004f333520",
+        "id": "c1bc87012206ff08",
         "type": "tabs",
         "children": [
           {
-            "id": "4d055f4b52bfd68d",
+            "id": "063dff6d98c2054c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anglais.md",
+                "file": "Maths.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Anglais"
+              "title": "Maths"
             }
           }
         ]
@@ -181,8 +181,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4d055f4b52bfd68d",
+  "active": "063dff6d98c2054c",
   "lastOpenFiles": [
+    "img/Pasted image 20251017113011.png",
+    "Maths.md",
     "Anglais.md",
     "OpenClaw.md",
     "CEJM-Eco.md",
@@ -194,8 +196,8 @@
     "CEJM/CEJM 1ère ANNEE 2025-2026/lu802082n5.tmp",
     "Anglais/OpenClaw-The-Biggest-Tech-Phenomenon-of-2026.pptx",
     "Anglais/OpenClaw-The-Biggest-Tech-Phenomenon-of-2026.pptx.opdownload",
-    "Pasted image 20260403091758.png",
-    "Pasted image 20260403091737.png",
+    "img/Pasted image 20260403091758.png",
+    "img/Pasted image 20260403091737.png",
     "CEJM/CEJM 1ère ANNEE 2025-2026/lu802082dz.tmp",
     "CEJM/CEJM 1ère ANNEE 2025-2026/lu802082dx.tmp",
     "CEJM-Droit.md",
@@ -204,17 +206,17 @@
     "Cas duralex.md",
     "Pestel LV.md",
     "README.md",
-    "Pasted image 20260205143317.png",
+    "img/Pasted image 20260205143317.png",
     "BDD.md",
-    "Pasted image 20260205145022.png",
-    "Pasted image 20260205123602.png",
+    "img/Pasted image 20260205145022.png",
+    "img/Pasted image 20260205123602.png",
     "CGE.md",
     "Dev/Mission.md",
     "Excalidraw/Drawing 2025-11-28 12.23.19.excalidraw.md",
     "Excalidraw/Drawing 2025-11-28 11.33.59.excalidraw.md",
     "Excalidraw/Drawing 2025-11-28 12.05.06.excalidraw.md",
-    "Pasted Image 20251128114755_964.png",
-    "Pasted Image 20251128113403_901.png",
+    "img/Pasted Image 20251128114755_964.png",
+    "img/Pasted Image 20251128113403_901.png",
     "Anglais/remotly_files/webmail_lws.svg",
     "Anglais/remotly_files/oeil_ferme.svg",
     "Anglais/remotly_files/lws_emails.avif",
