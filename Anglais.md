@@ -594,3 +594,63 @@ The **advantages** for businesses are massive: automation of lead generation, cu
 ### Conclusion
 
 In my opinion, OpenClaw is the "Linux of AI." It gives power back to users by keeping data local and private. In the future, I believe every professional will have a personalized OpenClaw agent acting as a digital twin to handle boring administrative tasks.
+
+
+
+
+# BTS ORAL SUITE 10/04/26
+  
+
+**IT Jobs**  
+The IT sector is one of the fastest-growing industries and offers many career opportunities. With the development of digital technologies, companies need skilled professionals to manage systems, develop applications, and protect data.
+
+  
+
+There are many different IT jobs, such as software developer, network administrator, cybersecurity specialist, and IT support technician. Each job requires specific technical skills and knowledge.
+
+  
+
+The BTS SIO is a training program that prepares students for careers in IT. It offers two main specializations: SLAM, which focuses on software development, and SISR, which focuses on network and system administration. These two paths lead to different professional roles.
+
+In addition to technical skills, IT professionals must have soft skills such as problem-solving, teamwork, and adaptability. Technology evolves quickly, so continuous learning is essential in this field.
+
+  
+
+Internships are also an important part of the training because they allow students to gain real-world experience.
+
+  
+
+Overall, the IT sector provides many opportunities for motivated students who are ready to learn and adapt to new technologies.
+
+  
+
+  
+
+**Opinion Questions**
+
+- What IT job would you like to do? Why?
+	- Fullstack dev
+    
+- What skills are the most important in IT? Why?
+	    Curiosity and the ability to search
+
+  
+
+**Mise en situation.**
+
+  
+
+You are finishing your BTS SIO and applying for your first job. During an interview, the recruiter asks about your skills, your specialization (SLAM or SISR), and your career goals.
+
+  
+
+**Questions**
+
+- How would you present your skills and experience?
+	- Projects
+    
+- Why did you choose SLAM or SISR?
+	- SLAM
+    
+- What are your professional goals for the future?
+	- Open my own company and make custom programs for customers
