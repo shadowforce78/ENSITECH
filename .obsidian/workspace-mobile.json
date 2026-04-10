@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CEJM-Eco.md",
+                "file": "OpenClaw.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CEJM-Eco"
+              "title": "OpenClaw"
             }
           }
         ]
@@ -158,8 +158,8 @@
   },
   "active": "7d9a00ec81eee3ba",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-09-05 10.01.01.excalidraw.md",
     "CEJM-Eco.md",
+    "Excalidraw/Drawing 2025-09-05 10.01.01.excalidraw.md",
     "Anglais.md",
     "CEJM-Droit.md"
   ]
