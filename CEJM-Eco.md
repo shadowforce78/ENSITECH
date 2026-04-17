@@ -616,13 +616,15 @@ Duralex s'inscrit dans cette démarche à travers ses trois piliers (économique
 	- Mercatiques : Marque de notoriete mondiale, image de marque forte liee au Made in France.
 	    
 	- Juridiques : Brevets et label Entreprise du Patrimoine Vivant.
-	    
 	
-	Competences :
-	
-	- Savoir-faire industriel historique dans le verre trempe.
-	    
-	- Capacite d innovation produit (350 references).
+	- Competences : 
+		- Savoir-faire industriel historique dans le verre trempe.
+		- Capacite d innovation produit (350 references).
+
+		Professionelle dans la gestion du savoir faire 
+		Organisationelle avec ddeveloppement d'une collaboration
+		
+		  
     
 
 2. Les ressources ayant permis le redressement
@@ -656,3 +658,44 @@ Duralex s'inscrit dans cette démarche à travers ses trois piliers (économique
 	- Transparence : La diffusion de l information financiere et la gestion democratique limitent les asymetries d information et les conflits.
 	    
 	- Equite : Le partage du profit (ristournes de la Scop) et la responsabilite partagee soudent les equipes autour d un projet commun de survie de l outil industriel.
+
+
+
+
+
+# Cas Onepoint
+**1. Motivations de l'entreprise Onepoint pour adopter une organisation « décloisonnée » :**
+
+- Devenir un laboratoire de l'entreprise numérisée et agile.
+    
+- Attirer et fidéliser les meilleurs experts.
+    
+- Promouvoir la transversalité et l'intelligence collective en s'affranchissant des frontières classiques entre les métiers.
+    
+- Gagner en souplesse globale dans l'organisation.
+    
+- Favoriser l'épanouissement personnel et le développement des compétences des collaborateurs.
+    
+
+**2. Comment cette organisation permet de répondre aux besoins des clients :**
+
+- Elle permet un accompagnement de « bout en bout » avec une vision globale et « sans-couture » sur les sujets traités.
+    
+- Elle facilite la formation rapide d'équipes pluridisciplinaires (consultants, développeurs, architectes...) taillées sur-mesure pour les projets.
+    
+- Elle permet de déployer chez les clients des « usines digitales » avec des effectifs mis en commun.
+    
+- Elle crée une vraie relation partenariale, allant jusqu'à lier la rémunération aux indicateurs opérationnels du client.
+    
+
+**3. Moyens mis en œuvre pour permettre la coordination du travail :**
+
+- Création de « communautés » ouvertes, inspirées des réseaux sociaux, auxquelles les collaborateurs s'affilient librement et qui interagissent constamment.
+    
+- Formation dynamique d'équipes projet autour de « leaders », basées sur l'envie, l'appétence et la disponibilité des collaborateurs (principe d'entreprise libérée).
+    
+- Suppression des bilans annuels au profit d'une progression continue grâce à des feedbacks réguliers.
+    
+- Rupture du lien classique entre rémunération et statut.
+
+- Supervision direct car "leaders"

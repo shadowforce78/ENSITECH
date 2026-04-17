@@ -26,3 +26,34 @@ $x+y+x=x+y$
 $\overline 0 +x y=1$
 $\overline 1 a \overline b=0$
 
+
+# Diagramme de karnaugh
+
+
+$g(a,b,c) = ab+\bar a \bar c + abc$ $=> ab + \bar a \bar c$ 
+
+|          | $bc$ | $b \bar c$ | $\bar b \bar c$ | $\bar b c$ |
+| -------- | ---- | ---------- | --------------- | ---------- |
+| $a$      | 1    | 1          |                 |            |
+| $\bar a$ |      | 1          | 1               |            |
+
+$h(a,b,c)=abc+\bar c + a\bar b$ $=> a + \bar c$ 
+
+|          | $bc$ | $b \bar c$ | $\bar b \bar c$ | $\bar b c$ |
+| -------- | ---- | ---------- | --------------- | ---------- |
+| $a$      | 1    | 1          | 1               | 1          |
+| $\bar a$ |      | 1          | 1               |            |
+
+$i(a,b,c,)=\bar a +c$ 
+
+|          | $bc$ | $b \bar c$ | $\bar b \bar c$ | $\bar b c$ |
+| -------- | ---- | ---------- | --------------- | ---------- |
+| $a$      | 1    |            |                 | 1          |
+| $\bar a$ | 1    | 1          | 1               | 1          |
+
+$j(a,b,c)=\bar b +ac$
+
+|          | $bc$ | $b \bar c$ | $\bar b \bar c$ | $\bar b c$ |
+| -------- | ---- | ---------- | --------------- | ---------- |
+| $a$      | 1    |            | 1               | 1          |
+| $\bar a$ |      |            | 1               | 1          |
