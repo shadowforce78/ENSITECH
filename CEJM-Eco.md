@@ -699,3 +699,43 @@ Duralex s'inscrit dans cette démarche à travers ses trois piliers (économique
 - Rupture du lien classique entre rémunération et statut.
 
 - Supervision direct car "leaders"
+
+
+
+
+
+# Cas Chapitre 15
+
+Question 1
+
+- L'explosion des dépenses en électricité et en gaz suite à la guerre en Ukraine et à la crise de l'énergie.
+- L'inflation générale qui a pesé sur les coûts.
+- La baisse de la consommation des ménages.
+- La chute du chiffre d'affaires de près de 12 % en 2023.
+
+
+Question 2
+
+- Le cycle d'exploitation génère des coûts très importants avant même de réaliser des ventes, ce qui crée un grand décalage de trésorerie.
+- L'usine a des coûts incompressibles de 2,5 millions d'euros par mois pour fonctionner.
+- Ces coûts comprennent le four qui doit tourner sans interruption, la masse salariale de 226 employés, l'achat des matières premières comme le sable, les emballages et la maintenance.
+    
+
+Question 3
+
+- Des apports en capital réalisés par les salariés (création de la SCOP) et par la Région Centre-Val de Loire.
+- L'autofinancement potentiel grâce à la vente du stock d'articles existant, valorisé à près de 4 millions d'euros.
+- Le recours à l'emprunt bancaire, soutenu par les garanties des collectivités.
+- L'obtention de fonds via la vente du site foncier à la métropole d'Orléans.
+    
+
+Question 4
+
+- Le rachat du site foncier par la métropole (estimé entre 5 et 8 millions d'euros) permet d'apporter des liquidités immédiates à l'entreprise.
+- Le maire s'engage à se porter garant des emprunts, ce qui est un geste indispensable pour rassurer les banques et les convaincre de prêter de l'argent au projet de reprise.
+
+
+Question 5
+
+- Des investissements immatériels : l'entreprise recrute une équipe de vente et marketing pour retrouver des clients, innove avec de nouveaux produits (verre Spirale) et développe son design en interne.
+- Des investissements matériels : l'objectif, une fois l'entreprise redevenue rentable grâce aux ventes, est de pouvoir investir dans de nouvelles machines.

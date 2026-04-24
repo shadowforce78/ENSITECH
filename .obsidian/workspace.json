@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths Exo.md",
+                "file": "CEJM-Eco.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Maths Exo"
+              "title": "CEJM-Eco"
             }
           }
         ],
@@ -198,8 +198,8 @@
   },
   "active": "8915db54b05f1c4d",
   "lastOpenFiles": [
-    "Maths/Maths Exo.pdf",
     "Maths Exo.md",
+    "Maths/Maths Exo.pdf",
     "Pasted image 20260417154703.png",
     "Pasted image 20260417154136.png",
     "Maths.md",
