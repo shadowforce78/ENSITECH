@@ -654,3 +654,47 @@ You are finishing your BTS SIO and applying for your first job. During an interv
     
 - What are your professional goals for the future?
 	- Open my own company and make custom programs for customers
+
+
+
+
+
+
+- **1. have a lot on someone's plate** * **b.** be very busy
+    
+- **2. cut corners** * **d.** do things in a way that is easier and cheaper, but without any focus on quality
+    
+- **3. have your work cut out** * **g.** have a great deal of work that is likely to be difficult
+    
+- **4. read between the lines** * **i.** find meaning in something that is not obvious or openly said
+    
+- **5. be thrown in the deep end** * **a.** have no choice about doing something
+    
+- **6. a no brainer** * **c.** a decision that doesn't require any thought to make
+    
+- **7. put something on the back burner** * **h.** give something less focus or importance
+    
+- **8. go through a lot of red tape** * **f.** meet the official requirements to do something which may seem unnecessarily complicated
+    
+- **9. be under pressure** * **e.** be put in a situation where it’s not clear what to do and you don’t have any help
+
+
+
+
+1. During her speech, the CEO didn't say that the company was in trouble, but you could **read between the lines** and know that there were problems.
+    
+2. I know I asked you to do that report, but can you **put it on the back burner** for now and help me with this presentation?
+    
+3. When she asked me to join her business, it was a bit of **a no brainer** really. We've always worked really well together and it was the best decision I've ever made.
+    
+4. We had **to go through a lot of red tape** involved in getting the right permits for our business and it was much more expensive than we anticipated.
+    
+5. I wouldn't go into her office right now. She **is under pressure** to get that report finished before 3 pm and she's not in a good mood.
+    
+6. About 2 months after I started, my manager left and I had no supervisor for almost a year, so I was really **thrown in the deep end** and had to learn how to do the job really quickly.
+    
+7. Bookings for next week have increased by almost 80% so we're really going to **have our work cut out for us**. I'll need everyone to be here every day.
+    
+8. If they want it earlier than we agreed, then we're going to have **to cut corners**. You can't ask for a quality product, but ignore the time it takes to make.
+    
+9. I'm not sure that I'll have time to meet this week. I **have got a lot on my plate**. But I should be able to arrange something for next week?

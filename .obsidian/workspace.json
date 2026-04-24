@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CEJM-Eco.md",
+                "file": "Anglais.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CEJM-Eco"
+              "title": "Anglais"
             }
           }
         ],
@@ -198,12 +198,12 @@
   },
   "active": "8915db54b05f1c4d",
   "lastOpenFiles": [
+    "CEJM-Eco.md",
     "Maths Exo.md",
     "Maths/Maths Exo.pdf",
     "Pasted image 20260417154703.png",
     "Pasted image 20260417154136.png",
     "Maths.md",
-    "CEJM-Eco.md",
     "img/Pasted image 20251017113011.png",
     "Anglais.md",
     "OpenClaw.md",
